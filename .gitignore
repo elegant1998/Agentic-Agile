@@ -10,10 +10,6 @@ tools/
 # Temporary source images used during the chapter migration.
 pic/
 
-# Keep the public distribution folders, but do not commit local build output.
-downloads/pdf/*
-!downloads/pdf/README.md
-downloads/epub/*
-!downloads/epub/README.md
+# Generated reading editions are public release artifacts.
 downloads/versions/*
 !downloads/versions/README.md

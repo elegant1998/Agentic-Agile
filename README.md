@@ -76,8 +76,8 @@ Evidence 与价值/效能 Telemetry
 
 你可以直接在线阅读，也可以下载整本 PDF 或 EPUB。
 
-- [PDF 文件目录](downloads/pdf/)
-- [EPUB 文件目录](downloads/epub/)
+- [下载 PDF（v3.1）](downloads/pdf/Agentic-Agile-v3.1.pdf) · [PDF 文件目录](downloads/pdf/)
+- [下载 EPUB（v3.1）](downloads/epub/Agentic-Agile-v3.1.epub) · [EPUB 文件目录](downloads/epub/)
 - [版本下载与发布说明](downloads/versions/)
 - [GitHub Releases](https://github.com/elegant1998/Agentic-Agile/releases)
 
