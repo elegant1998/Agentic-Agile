@@ -4,6 +4,10 @@
 
 [在线阅读全书](book/README.md)　[进入 Agentic Agile 官网](http://agentic.iloveagile.me/)　[下载 PDF / EPUB](#下载)
 
+<p align="center">
+  <img src="cover/Agentic-Agile-cover-front-thumb.png" alt="《Agentic Agile智能体敏捷：从碳基协作到硅基自治》完整封面" width="220">
+</p>
+
 ## 这不是给敏捷加一个 AI 插件
 
 代码生成更多了，需求为什么还在排队？
@@ -55,8 +59,6 @@ Evidence 与价值/效能 Telemetry
 ```
 
 书中的 3-4-3、SCOPE-V、Harness、验证工程和 Evidence Bundle 不是并列的术语清单，而是共同构成这套人机协同研发操作系统的不同控制部件。
-
-<img src="./cover/book-cover-front.jpg" style="zoom:10%;" />
 
 ## 全书结构
 
