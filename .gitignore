@@ -1,0 +1,19 @@
+# The complete manuscript is maintained privately and is not published as
+# Markdown source in the public repository.
+Agentic Agile智能体敏捷：从碳基协作到硅基自治_v3.1.md
+
+# Local-only assembly tool for rebuilding the public chapter set and release
+# manuscript. The public repository contains the generated chapters instead.
+tools/
+.local/
+
+# Temporary source images used during the chapter migration.
+pic/
+
+# Keep the public distribution folders, but do not commit local build output.
+downloads/pdf/*
+!downloads/pdf/README.md
+downloads/epub/*
+!downloads/epub/README.md
+downloads/versions/*
+!downloads/versions/README.md
