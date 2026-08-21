@@ -11,5 +11,6 @@ tools/
 pic/
 
 # Generated reading editions are public release artifacts.
+downloads/md/
 downloads/versions/*
 !downloads/versions/README.md
