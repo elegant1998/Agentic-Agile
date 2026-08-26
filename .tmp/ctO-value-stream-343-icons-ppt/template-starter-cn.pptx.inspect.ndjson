@@ -1,0 +1,52 @@
+{"kind":"deck","id":"pr/i6zurv","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/wqgmm5","slide":1,"title":"把 3-4-3 嵌入 SDLC：三大自治沿价值流递进","textShapes":29}
+{"kind":"textbox","id":"sh/pkji94zy","slide":1,"name":"title","text":"把 3-4-3 嵌入 SDLC：三大自治沿价值流递进","textPreview":"把 3-4-3 嵌入 SDLC：三大自治沿价值流递进","textChars":26,"textLines":1,"bbox":[62,28,1156,42]}
+{"kind":"textbox","id":"sh/bm1oruxk","slide":1,"name":"subtitle","text":"从客户需求提出到对外发布，3 个角色、4 大工件、3 大自治机制与 SCOPE-V 同步嵌入。","textPreview":"从客户需求提出到对外发布，3 个角色、4 大工件、3 大自治机制与 SCOPE-V 同步嵌入。","textChars":47,"textLines":1,"bbox":[64,76,1040,24]}
+{"kind":"shape","id":"sh/a1snipwz","slide":1,"name":"thesis","bbox":[62,112,1156,34]}
+{"kind":"textbox","id":"sh/p0jmpkfe","slide":1,"name":"thesis-text","text":"价值流：客户需求 → 需求澄清 → 需求定义 → 架构设计 → 编码 → SIT → 集成测试 → 对外发布","textPreview":"价值流：客户需求 → 需求澄清 → 需求定义 → 架构设计 → 编码 → SIT → 集成测试 → 对外发布","textChars":54,"textLines":1,"bbox":[82,120,1115,20]}
+{"kind":"shape","id":"sh/ozq5gfet","slide":1,"name":"flow-arrow-1","bbox":[338,230,32,0]}
+{"kind":"shape","id":"sh/nyh4nax8","slide":1,"name":"flow-arrow-2","bbox":[616,230,32,0]}
+{"kind":"shape","id":"sh/2x8ne5wn","slide":1,"name":"flow-arrow-3","bbox":[894,230,32,0]}
+{"kind":"shape","id":"sh/1wzml0fi","slide":1,"name":"phase-选对价值流","bbox":[62,164,258,132]}
+{"kind":"textbox","id":"sh/0vq5cvex","slide":1,"name":"phase-time-选对价值流","text":"意图注入","textPreview":"意图注入","textChars":4,"textLines":1,"bbox":[80,177,74,19]}
+{"kind":"textbox","id":"sh/y18z298n","slide":1,"name":"phase-title-选对价值流","text":"客户需求 → 澄清","textPreview":"客户需求 → 澄清","textChars":9,"textLines":1,"bbox":[80,204,220,27]}
+{"kind":"textbox","id":"sh/z2h0ve98","slide":1,"name":"phase-body-选对价值流","text":"IO + Owner：目标 / 护栏\nSCOPE-V：Specify\nIntent Graph + IWE","textPreview":"IO + Owner：目标 / 护栏 | SCOPE-V：Specify | Intent Graph + IWE","textChars":53,"textLines":3,"bbox":[80,238,220,48]}
+{"kind":"shape","id":"sh/k3qh4jqt","slide":1,"name":"phase-跑通受控闭环","bbox":[340,164,258,132]}
+{"kind":"textbox","id":"sh/l4zixore","slide":1,"name":"phase-time-跑通受控闭环","text":"意图注入","textPreview":"意图注入","textChars":4,"textLines":1,"bbox":[358,177,74,19]}
+{"kind":"textbox","id":"sh/qxozy98r","slide":1,"name":"phase-title-跑通受控闭环","text":"定义 → 架构","textPreview":"定义 → 架构","textChars":7,"textLines":1,"bbox":[358,204,220,27]}
+{"kind":"textbox","id":"sh/byx0ru9c","slide":1,"name":"phase-body-跑通受控闭环","text":"IO：Contract / AC；OA：约束\nSCOPE-V：Constrain / Orchestrate\nConstract + Constraint + Work Graph","textPreview":"IO：Contract / AC；OA：约束 | SCOPE-V：Constrain / Orchestrate | Constract + Constraint + Work Graph","textChars":90,"textLines":3,"bbox":[358,238,240,48]}
+{"kind":"shape","id":"sh/cz6h0zqh","slide":1,"name":"phase-让上下文与经验复利","bbox":[618,164,258,132]}
+{"kind":"textbox","id":"sh/d0fit4r2","slide":1,"name":"phase-time-让上下文与经验复利","text":"对抗自净","textPreview":"对抗自净","textChars":4,"textLines":1,"bbox":[636,177,74,19]}
+{"kind":"textbox","id":"sh/294zup8f","slide":1,"name":"phase-title-让上下文与经验复利","text":"编码 → SIT","textPreview":"编码 → SIT","textChars":8,"textLines":1,"bbox":[636,204,220,27]}
+{"kind":"textbox","id":"sh/3ax0nu90","slide":1,"name":"phase-body-让上下文与经验复利","text":"AS：实现 / SIT；OA：Harness\nSCOPE-V：Prove ↔ Evolve\nCode Map + Evidence","textPreview":"AS：实现 / SIT；OA：Harness | SCOPE-V：Prove ↔ Evolve | Code Map + Evidence","textChars":65,"textLines":3,"bbox":[636,238,220,48]}
+{"kind":"shape","id":"sh/retwvqps","slide":1,"name":"phase-扩大可复制能力","bbox":[896,164,258,132]}
+{"kind":"textbox","id":"sh/6dkf2lo7","slide":1,"name":"phase-time-扩大可复制能力","text":"HITL 裁决","textPreview":"HITL 裁决","textChars":7,"textLines":1,"bbox":[914,177,74,19]}
+{"kind":"textbox","id":"sh/tgbex07y","slide":1,"name":"phase-title-扩大可复制能力","text":"集成 → 发布","textPreview":"集成 → 发布","textChars":7,"textLines":1,"bbox":[914,204,220,27]}
+{"kind":"textbox","id":"sh/sf2x4v6d","slide":1,"name":"phase-body-扩大可复制能力","text":"AS：集成 / 回归；IO / OA：Verify\nSCOPE-V：Verify → Telemetry\nEvidence + Memory","textPreview":"AS：集成 / 回归；IO / OA：Verify | SCOPE-V：Verify → Telemetry | Evidence + Memory","textChars":70,"textLines":3,"bbox":[914,238,220,48]}
+{"kind":"textbox","id":"sh/fidwzap4","slide":1,"name":"four-dim-title","text":"3-4-3 的四维嵌入：角色、工件与自治都沿同一条价值流运行","textPreview":"3-4-3 的四维嵌入：角色、工件与自治都沿同一条价值流运行","textChars":30,"textLines":1,"bbox":[62,312,900,24]}
+{"kind":"shape","id":"sh/ehkf65oj","slide":1,"name":"rail-人员","bbox":[62,344,1156,38]}
+{"kind":"shape","id":"sh/14vy107u","slide":1,"name":"rail-chip-人员","bbox":[62,344,112,38]}
+{"kind":"textbox","id":"sh/g3mx8v69","slide":1,"name":"rail-label-人员","text":"人员","textPreview":"人员","textChars":2,"textLines":1,"bbox":[74,352,90,22]}
+{"kind":"textbox","id":"sh/vm9wn6pk","slide":1,"name":"rail-body-人员","text":"IO 主导需求、定义与发布裁决；OA 贯穿控制与编排；AS 承担编码、测试、集成的受约束执行。","textPreview":"IO 主导需求、定义与发布裁决；OA 贯穿控制与编排；AS 承担编码、测试、集成的受约束执行。","textChars":47,"textLines":1,"bbox":[192,351,1000,24]}
+{"kind":"shape","id":"sh/ul0vu18z","slide":1,"name":"rail-组织","bbox":[62,387,1156,38]}
+{"kind":"shape","id":"sh/0fel83il","slide":1,"name":"rail-chip-组织","bbox":[62,387,112,38]}
+{"kind":"textbox","id":"sh/lgn2h8j6","slide":1,"name":"rail-label-组织","text":"组织","textPreview":"组织","textChars":2,"textLines":1,"bbox":[74,395,90,22]}
+{"kind":"textbox","id":"sh/ydc36d0v","slide":1,"name":"rail-body-组织","text":"业务 Owner、产品、架构、研发、测试与运维围绕同一 Contract 协作；例外在正确节点裁决。","textPreview":"业务 Owner、产品、架构、研发、测试与运维围绕同一 Contract 协作；例外在正确节点裁决。","textChars":50,"textLines":1,"bbox":[192,394,1000,24]}
+{"kind":"shape","id":"sh/ze5kfi10","slide":1,"name":"rail-流程","bbox":[62,430,1156,38]}
+{"kind":"shape","id":"sh/cbul432p","slide":1,"name":"rail-chip-流程","bbox":[62,430,112,38]}
+{"kind":"textbox","id":"sh/dc32d8ja","slide":1,"name":"rail-label-流程","text":"流程","textPreview":"流程","textChars":2,"textLines":1,"bbox":[74,438,90,22]}
+{"kind":"textbox","id":"sh/q9c32tkj","slide":1,"name":"rail-body-流程","text":"SCOPE-V 的阶段落点：Specify → Constrain / Orchestrate → Prove ↔ Evolve → Verify → Telemetry；每一步都有启动条件、停止条件与 Evidence。","textPreview":"SCOPE-V 的阶段落点：Specify → Constrain / Orchestrate → Prove ↔ Evolve → Verify → Telemetry；每一步都有启动条件、停止条件与 Evidence。","textChars":111,"textLines":1,"bbox":[192,437,1000,24]}
+{"kind":"shape","id":"sh/ralkby14","slide":1,"name":"rail-工具","bbox":[62,473,1156,38]}
+{"kind":"shape","id":"sh/w7ylgnit","slide":1,"name":"rail-chip-工具","bbox":[62,473,112,38]}
+{"kind":"textbox","id":"sh/x87mpsje","slide":1,"name":"rail-label-工具","text":"工件·工具","textPreview":"工件·工具","textChars":5,"textLines":1,"bbox":[74,481,90,22]}
+{"kind":"textbox","id":"sh/tczi1kzq","slide":1,"name":"rail-body-工具","text":"四大工件：意图图谱 → 意图契约 → 约束矩阵 → Evidence；IWE×Code Map、Harness、Memory、Telemetry 贯穿任务。","textPreview":"四大工件：意图图谱 → 意图契约 → 约束矩阵 → Evidence；IWE×Code Map、Harness、Memory、Telemetry 贯穿任务。","textChars":78,"textLines":1,"bbox":[192,480,1000,24]}
+{"kind":"shape","id":"sh/srqh8fi5","slide":1,"name":"outcome-panel","bbox":[62,532,544,128]}
+{"kind":"textbox","id":"sh/7qh0zuh0","slide":1,"name":"outcome-head","text":"阶段动作与改善指标","textPreview":"阶段动作与改善指标","textChars":9,"textLines":1,"bbox":[84,548,190,23]}
+{"kind":"textbox","id":"sh/6p8z6p0f","slide":1,"name":"outcome-body","text":"需求：C&A% / 澄清返工 ｜ 工程：编码→SIT Lead Time / 首次通过\n交付：集成→发布 Lead Time / 逃逸缺陷 ｜ 运行：回退、HITL、Token + 人工成本","textPreview":"需求：C&A% / 澄清返工 ｜ 工程：编码→SIT Lead Time / 首次通过 | 交付：集成→发布 Lead Time / 逃逸缺陷 ｜ 运行：回退、HITL、Token + 人工成本","textChars":95,"textLines":2,"bbox":[84,579,490,57]}
+{"kind":"shape","id":"sh/hgji54z2","slide":1,"name":"proof-panel","bbox":[632,532,586,128]}
+{"kind":"textbox","id":"sh/gfahczyh","slide":1,"name":"proof-head","text":"证明：不是局部效率，而是端到端有效交付","textPreview":"证明：不是局部效率，而是端到端有效交付","textChars":19,"textLines":1,"bbox":[654,548,260,23]}
+{"kind":"textbox","id":"sh/feh03uhw","slide":1,"name":"proof-body","text":"主指标：端到端 Lead Time ｜ 配套：C&A%、首次通过、返工、逃逸缺陷\n同类任务、同一风险边界：基线 vs. 趋势 + Contract / Evidence / Telemetry","textPreview":"主指标：端到端 Lead Time ｜ 配套：C&A%、首次通过、返工、逃逸缺陷 | 同类任务、同一风险边界：基线 vs. 趋势 + Contract / Evidence / Telemetry","textChars":96,"textLines":2,"bbox":[654,579,538,57]}
+{"kind":"textbox","id":"sh/ud8zap0b","slide":1,"name":"footer","text":"Agentic Agile｜让每一个 SDLC 阶段更快、更准、更可控，并能证明结果","textPreview":"Agentic Agile｜让每一个 SDLC 阶段更快、更准、更可控，并能证明结果","textChars":42,"textLines":1,"bbox":[62,681,1000,17]}
+{"kind":"notes","id":"nt/wqgmm5","slide":1,"text":"\n[Sources]\n- Agentic Agile Book, Chapter 5: 3-4-3, four dynamic governance artifacts, and SCOPE-V.\n- Agentic Agile Book, Chapter 25: IWE, Document Map and Code Map for trusted task context.\n- Agentic Agile Book, Chapter 26: Basic Memory and evidence-gated learning promotion.\n\n[Presenter Notes]\n- Read the slide from top to bottom: the SDLC value stream is the common operational surface; the four cards show where the three autonomy mechanisms appear.\n- The four rails make 3-4-3 concrete: people and organization own decisions; SCOPE-V governs the operating flow; the four artifacts and supporting tools carry facts, constraints and learning.\n- Success is not code volume. Use comparable work, the same risk boundary, and Contract/Evidence/Telemetry to prove shorter end-to-end lead time without quality or control regression.\n"}

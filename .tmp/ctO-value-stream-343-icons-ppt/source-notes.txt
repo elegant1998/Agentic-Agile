@@ -1,0 +1,5 @@
+Source deck: deliverables/Agentic-Agile-CTO-SDLC-343-Embedding-Map-v3.pptx
+Source content: Agentic Agile book chapters 5, 25 and 26.
+Source visual: generated line-icon strip, /Users/wanglijie/.codex/generated_images/01a01cc9-8322-7fc1-89d3-62ea6bd30651/exec-47c16d71-6e6a-4603-8847-bb221ff75ffd.png.
+Use: three role anchors (intent owner, orchestration architect, autonomous agent) and four governance-artifact anchors (graph, contract, constraint, evidence).
+

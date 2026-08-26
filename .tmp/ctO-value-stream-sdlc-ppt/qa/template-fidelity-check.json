@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-08-26T02:05:20.284Z",
+  "workspace": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-sdlc-ppt",
+  "finalPptx": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/deliverables/Agentic-Agile-CTO-SDLC-Value-Stream-Operating-Map-v2.pptx",
+  "starterPptx": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-sdlc-ppt/template-starter.pptx",
+  "mapPath": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-sdlc-ppt/template-frame-map.json",
+  "starterLayoutDir": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-sdlc-ppt/template-starter-layout",
+  "finalLayoutDir": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-sdlc-ppt/final-layout",
+  "editDir": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-sdlc-ppt",
+  "issueCount": 0,
+  "issues": []
+}

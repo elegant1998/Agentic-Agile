@@ -1,0 +1,2927 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/0eba4x",
+    "id": "0eba4x",
+    "slide": 1,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Helvetica Neue"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwnelkje",
+      "id": "48",
+      "name": "title",
+      "bbox": [
+        62,
+        28,
+        1156,
+        42
+      ],
+      "geometry": "rect",
+      "text": "用一条产品研发价值流，兑现 AI 转型的端到端提效",
+      "textPreview": "用一条产品研发价值流，兑现 AI 转型的端到端提效",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "用一条产品研发价值流，兑现 AI 转型的端到端提效"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "用一条产品研发价值流，兑现 AI 转型的端到端提效",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Helvetica Neue",
+            "color": "#0B1220",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "用一条产品研发价值流，兑现 AI 转型的端到端提效",
+              "fontSize": 34,
+              "typeface": "Helvetica Neue",
+              "color": "#0B1220",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jidw7ylo",
+      "id": "2",
+      "name": "subtitle",
+      "bbox": [
+        64,
+        76,
+        1040,
+        24
+      ],
+      "geometry": "rect",
+      "text": "不是部署更多 Agent，而是让意图、受控执行、证据与学习在同一条价值流上闭环。",
+      "textPreview": "不是部署更多 Agent，而是让意图、受控执行、证据与学习在同一条价值流上闭环。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "不是部署更多 Agent，而是让意图、受控执行、证据与学习在同一条价值流上闭环。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "不是部署更多 Agent，而是让意图、受控执行、证据与学习在同一条价值流上闭环。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "不是部署更多 Agent，而是让意图、受控执行、证据与学习在同一条价值流上闭环。",
+              "fontSize": 18,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yh4fytkj",
+      "id": "3",
+      "name": "thesis",
+      "bbox": [
+        62,
+        112,
+        1156,
+        34
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#10243E",
+      "lineColor": "#10243E",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8fyd8j6",
+      "id": "4",
+      "name": "thesis-text",
+      "bbox": [
+        82,
+        120,
+        1115,
+        20
+      ],
+      "geometry": "rect",
+      "text": "试点目标：以一条真实产品研发价值流为单位，建立可签署、可运行、可验证、可复用的 AI 原生交付能力。",
+      "textPreview": "试点目标：以一条真实产品研发价值流为单位，建立可签署、可运行、可验证、可复用的 AI 原生交付能力。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "试点目标：以一条真实产品研发价值流为单位，建立可签署、可运行、可验证、可复用的 AI 原生交付能力。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "试点目标：以一条真实产品研发价值流为单位，建立可签署、可运行、可验证、可复用的 AI 原生交付能力。",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "试点目标：以一条真实产品研发价值流为单位，建立可签署、可运行、可验证、可复用的 AI 原生交付能力。",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/876x4n2l",
+      "id": "5",
+      "name": "flow-arrow-1",
+      "bbox": [
+        338,
+        230,
+        32,
+        0
+      ],
+      "geometry": "line",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#1677FF",
+      "lineWidth": 2
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/76dgbi10",
+      "id": "6",
+      "name": "flow-arrow-2",
+      "bbox": [
+        616,
+        230,
+        32,
+        0
+      ],
+      "geometry": "line",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#1677FF",
+      "lineWidth": 2
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6l4f2dkf",
+      "id": "7",
+      "name": "flow-arrow-3",
+      "bbox": [
+        894,
+        230,
+        32,
+        0
+      ],
+      "geometry": "line",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "lineColor": "#1677FF",
+      "lineWidth": 2
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcfyhsj2",
+      "id": "8",
+      "name": "phase-选对价值流",
+      "bbox": [
+        62,
+        164,
+        258,
+        132
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFF4E8",
+      "lineColor": "#B96800",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gb6x8n2h",
+      "id": "9",
+      "name": "phase-time-选对价值流",
+      "bbox": [
+        80,
+        177,
+        74,
+        19
+      ],
+      "geometry": "rect",
+      "text": "0–2 周",
+      "textPreview": "0–2 周",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "0–2 周"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "0–2 周",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#B96800",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "0–2 周",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#B96800",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/apcba14f",
+      "id": "10",
+      "name": "phase-title-选对价值流",
+      "bbox": [
+        80,
+        204,
+        220,
+        27
+      ],
+      "geometry": "rect",
+      "text": "选对价值流",
+      "textPreview": "选对价值流",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "选对价值流"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "选对价值流",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#0B1220",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "选对价值流",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#0B1220",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bqlsjm50",
+      "id": "11",
+      "name": "phase-body-选对价值流",
+      "bbox": [
+        80,
+        238,
+        220,
+        48
+      ],
+      "geometry": "rect",
+      "text": "业务结果 + 关键瓶颈\n基线、风险与范围",
+      "textPreview": "业务结果 + 关键瓶颈 | 基线、风险与范围",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "业务结果 + 关键瓶颈"
+          },
+          {
+            "index": 2,
+            "text": "基线、风险与范围"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "业务结果 + 关键瓶颈",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "业务结果 + 关键瓶颈",
+              "fontSize": 14.51,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "基线、风险与范围",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "基线、风险与范围",
+              "fontSize": 14.51,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wrutcrml",
+      "id": "12",
+      "name": "phase-跑通受控闭环",
+      "bbox": [
+        340,
+        164,
+        258,
+        132
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#EAF4FF",
+      "lineColor": "#1677FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xs3alwnq",
+      "id": "13",
+      "name": "phase-time-跑通受控闭环",
+      "bbox": [
+        358,
+        177,
+        74,
+        19
+      ],
+      "geometry": "rect",
+      "text": "3–5 周",
+      "textPreview": "3–5 周",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3–5 周"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3–5 周",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#1677FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3–5 周",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#1677FF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytcbe14b",
+      "id": "14",
+      "name": "phase-title-跑通受控闭环",
+      "bbox": [
+        358,
+        204,
+        220,
+        27
+      ],
+      "geometry": "rect",
+      "text": "跑通受控闭环",
+      "textPreview": "跑通受控闭环",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "跑通受控闭环"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "跑通受控闭环",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#0B1220",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "跑通受控闭环",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#0B1220",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ju5sn65w",
+      "id": "15",
+      "name": "phase-body-跑通受控闭环",
+      "bbox": [
+        358,
+        238,
+        220,
+        48
+      ],
+      "geometry": "rect",
+      "text": "Intent Contract + SCOPE-V\nHarness、Prove、Evidence",
+      "textPreview": "Intent Contract + SCOPE-V | Harness、Prove、Evidence",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Intent Contract + SCOPE-V"
+          },
+          {
+            "index": 2,
+            "text": "Harness、Prove、Evidence"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Intent Contract + SCOPE-V",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Intent Contract + SCOPE-V",
+              "fontSize": 14.51,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Harness、Prove、Evidence",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Harness、Prove、Evidence",
+              "fontSize": 14.51,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvetgbmh",
+      "id": "16",
+      "name": "phase-让上下文与经验复利",
+      "bbox": [
+        618,
+        164,
+        258,
+        132
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#EAFBFD",
+      "lineColor": "#11B9D6",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lgnapgn2",
+      "id": "17",
+      "name": "phase-time-让上下文与经验复利",
+      "bbox": [
+        636,
+        177,
+        74,
+        19
+      ],
+      "geometry": "rect",
+      "text": "6–9 周",
+      "textPreview": "6–9 周",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6–9 周"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6–9 周",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#11B9D6",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "6–9 周",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#11B9D6",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/exsr2h47",
+      "id": "18",
+      "name": "phase-title-让上下文与经验复利",
+      "bbox": [
+        636,
+        204,
+        220,
+        27
+      ],
+      "geometry": "rect",
+      "text": "让上下文与经验复利",
+      "textPreview": "让上下文与经验复利",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "让上下文与经验复利"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "让上下文与经验复利",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#0B1220",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "让上下文与经验复利",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#0B1220",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zy1sb25s",
+      "id": "19",
+      "name": "phase-body-让上下文与经验复利",
+      "bbox": [
+        636,
+        238,
+        220,
+        48
+      ],
+      "geometry": "rect",
+      "text": "IWE 文档地图 + Code Map（双地图）\nEvidence → Basic / Agent Memory\n验证晋升 → 规则 / 测试 / Skill",
+      "textPreview": "IWE 文档地图 + Code Map（双地图） | Evidence → Basic / Agent Memory | 验证晋升 → 规则 / 测试 / Skill",
+      "resolvedFontSize": 21.37,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.89,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IWE 文档地图 + Code Map（双地图）"
+          },
+          {
+            "index": 2,
+            "text": "Evidence → Basic / Agent Memory"
+          },
+          {
+            "index": 3,
+            "text": "验证晋升 → 规则 / 测试 / Skill"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IWE 文档地图 + Code Map（双地图）",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IWE 文档地图 + Code Map（双地图）",
+              "fontSize": 14.51,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Evidence → Basic / Agent Memory",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Evidence → Basic / Agent Memory",
+              "fontSize": 14.51,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "验证晋升 → 规则 / 测试 / Skill",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "验证晋升 → 规则 / 测试 / Skill",
+              "fontSize": 14.51,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32x8jilk",
+      "id": "20",
+      "name": "phase-扩大可复制能力",
+      "bbox": [
+        896,
+        164,
+        258,
+        132
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#ECF8F3",
+      "lineColor": "#16835C",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/21o7adkz",
+      "id": "21",
+      "name": "phase-time-扩大可复制能力",
+      "bbox": [
+        914,
+        177,
+        74,
+        19
+      ],
+      "geometry": "rect",
+      "text": "10–12 周",
+      "textPreview": "10–12 周",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10–12 周"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10–12 周",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Helvetica Neue",
+            "color": "#16835C",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10–12 周",
+              "fontSize": 15,
+              "typeface": "Helvetica Neue",
+              "color": "#16835C",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4zql83q",
+      "id": "22",
+      "name": "phase-title-扩大可复制能力",
+      "bbox": [
+        914,
+        204,
+        220,
+        27
+      ],
+      "geometry": "rect",
+      "text": "扩大可复制能力",
+      "textPreview": "扩大可复制能力",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "扩大可复制能力"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "扩大可复制能力",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Helvetica Neue",
+            "color": "#0B1220",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "扩大可复制能力",
+              "fontSize": 22,
+              "typeface": "Helvetica Neue",
+              "color": "#0B1220",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/436pc325",
+      "id": "23",
+      "name": "phase-body-扩大可复制能力",
+      "bbox": [
+        914,
+        238,
+        220,
+        48
+      ],
+      "geometry": "rect",
+      "text": "标准、技能与授权扩展\nTelemetry 支持扩大或收缩",
+      "textPreview": "标准、技能与授权扩展 | Telemetry 支持扩大或收缩",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "标准、技能与授权扩展"
+          },
+          {
+            "index": 2,
+            "text": "Telemetry 支持扩大或收缩"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "标准、技能与授权扩展",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "标准、技能与授权扩展",
+              "fontSize": 14.51,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Telemetry 支持扩大或收缩",
+          "resolvedTextStyle": {
+            "fontSize": 14.51,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Telemetry 支持扩大或收缩",
+              "fontSize": 14.51,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyxofyl8",
+      "id": "24",
+      "name": "four-dim-title",
+      "bbox": [
+        62,
+        312,
+        900,
+        24
+      ],
+      "geometry": "rect",
+      "text": "四维必须同时改变，但每一步只改造本轮闭环所需的最小部分",
+      "textPreview": "四维必须同时改变，但每一步只改造本轮闭环所需的最小部分",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "四维必须同时改变，但每一步只改造本轮闭环所需的最小部分"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "四维必须同时改变，但每一步只改造本轮闭环所需的最小部分",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Helvetica Neue",
+            "color": "#0B1220",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "四维必须同时改变，但每一步只改造本轮闭环所需的最小部分",
+              "fontSize": 20,
+              "typeface": "Helvetica Neue",
+              "color": "#0B1220",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxo76tkn",
+      "id": "25",
+      "name": "rail-人员",
+      "bbox": [
+        62,
+        344,
+        1156,
+        38
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8E0EA",
+      "lineWidth": 1
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fqh83e",
+      "id": "26",
+      "name": "rail-chip-人员",
+      "bbox": [
+        62,
+        344,
+        112,
+        38
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#B96800",
+      "lineColor": "#B96800",
+      "lineWidth": 1
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gz6p832t",
+      "id": "27",
+      "name": "rail-label-人员",
+      "bbox": [
+        74,
+        352,
+        90,
+        22
+      ],
+      "geometry": "rect",
+      "text": "人员",
+      "textPreview": "人员",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "人员"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "人员",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "人员",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zuh8r2ls",
+      "id": "28",
+      "name": "rail-body-人员",
+      "bbox": [
+        192,
+        351,
+        1000,
+        24
+      ],
+      "geometry": "rect",
+      "text": "IO / OA / AS：人从重复执行转向意图定义、控制设计、异常裁决与责任签署。",
+      "textPreview": "IO / OA / AS：人从重复执行转向意图定义、控制设计、异常裁决与责任签署。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IO / OA / AS：人从重复执行转向意图定义、控制设计、异常裁决与责任签署。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IO / OA / AS：人从重复执行转向意图定义、控制设计、异常裁决与责任签署。",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IO / OA / AS：人从重复执行转向意图定义、控制设计、异常裁决与责任签署。",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/et87ixk7",
+      "id": "29",
+      "name": "rail-组织",
+      "bbox": [
+        62,
+        387,
+        1156,
+        38
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8E0EA",
+      "lineWidth": 1
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wf25cfip",
+      "id": "30",
+      "name": "rail-chip-组织",
+      "bbox": [
+        62,
+        387,
+        112,
+        38
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#1677FF",
+      "lineColor": "#1677FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0bmlkja",
+      "id": "31",
+      "name": "rail-label-组织",
+      "bbox": [
+        74,
+        395,
+        90,
+        22
+      ],
+      "geometry": "rect",
+      "text": "组织",
+      "textPreview": "组织",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "组织"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "组织",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "组织",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adknap0j",
+      "id": "32",
+      "name": "rail-body-组织",
+      "bbox": [
+        192,
+        394,
+        1000,
+        24
+      ],
+      "geometry": "rect",
+      "text": "围绕价值流形成最小责任单元；决策权前移，越界、冲突与不可逆行动有明确去处。",
+      "textPreview": "围绕价值流形成最小责任单元；决策权前移，越界、冲突与不可逆行动有明确去处。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "围绕价值流形成最小责任单元；决策权前移，越界、冲突与不可逆行动有明确去处。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "围绕价值流形成最小责任单元；决策权前移，越界、冲突与不可逆行动有明确去处。",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "围绕价值流形成最小责任单元；决策权前移，越界、冲突与不可逆行动有明确去处。",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vet4ju14",
+      "id": "33",
+      "name": "rail-流程",
+      "bbox": [
+        62,
+        430,
+        1156,
+        38
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8E0EA",
+      "lineWidth": 1
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k325gzil",
+      "id": "34",
+      "name": "rail-chip-流程",
+      "bbox": [
+        62,
+        430,
+        112,
+        38
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#11B9D6",
+      "lineColor": "#11B9D6",
+      "lineWidth": 1
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54vmp4j6",
+      "id": "35",
+      "name": "rail-label-流程",
+      "bbox": [
+        74,
+        438,
+        90,
+        22
+      ],
+      "geometry": "rect",
+      "text": "流程",
+      "textPreview": "流程",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "流程"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "流程",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "流程",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i1knep0f",
+      "id": "36",
+      "name": "rail-body-流程",
+      "bbox": [
+        192,
+        437,
+        1000,
+        24
+      ],
+      "geometry": "rect",
+      "text": "SCOPE-V：机器快内环持续执行、验证与修复；人类责任外环负责边界、例外、发布与扩大。",
+      "textPreview": "SCOPE-V：机器快内环持续执行、验证与修复；人类责任外环负责边界、例外、发布与扩大。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SCOPE-V：机器快内环持续执行、验证与修复；人类责任外环负责边界、例外、发布与扩大。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SCOPE-V：机器快内环持续执行、验证与修复；人类责任外环负责边界、例外、发布与扩大。",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SCOPE-V：机器快内环持续执行、验证与修复；人类责任外环负责边界、例外、发布与扩大。",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2t4nu10",
+      "id": "37",
+      "name": "rail-工具",
+      "bbox": [
+        62,
+        473,
+        1156,
+        38
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#D8E0EA",
+      "lineWidth": 1
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s7m5kjix",
+      "id": "38",
+      "name": "rail-chip-工具",
+      "bbox": [
+        62,
+        473,
+        112,
+        38
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#16835C",
+      "lineColor": "#16835C",
+      "lineWidth": 1
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8vmt4ji",
+      "id": "39",
+      "name": "rail-label-工具",
+      "bbox": [
+        74,
+        481,
+        90,
+        22
+      ],
+      "geometry": "rect",
+      "text": "工具",
+      "textPreview": "工具",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "工具"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "工具",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "工具",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t43ed0j6",
+      "id": "40",
+      "name": "rail-body-工具",
+      "bbox": [
+        192,
+        480,
+        1000,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Context + Orchestration + Harness + Evidence + Telemetry：把规则、状态、权限和事实嵌入日常工作。",
+      "textPreview": "Context + Orchestration + Harness + Evidence + Telemetry：把规则、状态、权限和事实嵌入日常工作。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Context + Orchestration + Harness + Evidence + Telemetry：把规则、状态、权限和事实嵌入日常工作。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Context + Orchestration + Harness + Evidence + Telemetry：把规则、状态、权限和事实嵌入日常工作。",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Context + Orchestration + Harness + Evidence + Telemetry：把规则、状态、权限和事实嵌入日常工作。",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s3udkvil",
+      "id": "41",
+      "name": "outcome-panel",
+      "bbox": [
+        62,
+        532,
+        544,
+        128
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#F4F7FA",
+      "lineColor": "#D8E0EA",
+      "lineWidth": 1
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r2lwba10",
+      "id": "42",
+      "name": "outcome-head",
+      "bbox": [
+        84,
+        548,
+        190,
+        23
+      ],
+      "geometry": "rect",
+      "text": "将取得什么成果",
+      "textPreview": "将取得什么成果",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "将取得什么成果"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "将取得什么成果",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Helvetica Neue",
+            "color": "#0B1220",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "将取得什么成果",
+              "fontSize": 19,
+              "typeface": "Helvetica Neue",
+              "color": "#0B1220",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61cvi50v",
+      "id": "43",
+      "name": "outcome-body",
+      "bbox": [
+        84,
+        579,
+        490,
+        57
+      ],
+      "geometry": "rect",
+      "text": "端到端周期缩短  ·  首次通过率提升  ·  返工与等待下降\n人类判断集中到价值与风险节点  ·  可复用上下文、规则、测试与 Skill 持续累积",
+      "textPreview": "端到端周期缩短  ·  首次通过率提升  ·  返工与等待下降 | 人类判断集中到价值与风险节点  ·  可复用上下文、规则、测试与 Skill 持续累积",
+      "resolvedFontSize": 23.75,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "端到端周期缩短  ·  首次通过率提升  ·  返工与等待下降"
+          },
+          {
+            "index": 2,
+            "text": "人类判断集中到价值与风险节点  ·  可复用上下文、规则、测试与 Skill"
+          },
+          {
+            "index": 3,
+            "text": "持续累积"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "端到端周期缩短  ·  首次通过率提升  ·  返工与等待下降",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "端到端周期缩短  ·  首次通过率提升  ·  返工与等待下降",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "人类判断集中到价值与风险节点  ·  可复用上下文、规则、测试与 Skill 持续累积",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "人类判断集中到价值与风险节点  ·  可复用上下文、规则、测试与 Skill 持续累积",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50je90ja",
+      "id": "44",
+      "name": "proof-panel",
+      "bbox": [
+        632,
+        532,
+        586,
+        128
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#F7FBFF",
+      "lineColor": "#1677FF",
+      "lineWidth": 1
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zadgvip",
+      "id": "45",
+      "name": "proof-head",
+      "bbox": [
+        654,
+        548,
+        260,
+        23
+      ],
+      "geometry": "rect",
+      "text": "如何度量并证明成果",
+      "textPreview": "如何度量并证明成果",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "如何度量并证明成果"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "如何度量并证明成果",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Helvetica Neue",
+            "color": "#0B1220",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "如何度量并证明成果",
+              "fontSize": 19,
+              "typeface": "Helvetica Neue",
+              "color": "#0B1220",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jy1w7q14",
+      "id": "46",
+      "name": "proof-body",
+      "bbox": [
+        654,
+        579,
+        538,
+        57
+      ],
+      "geometry": "rect",
+      "text": "同类任务、同一风险边界：试点前基线 vs. 试点后趋势\n业务价值｜工程质量｜自治健康｜人机成本  ←  Intent Contract + Evidence Bundle + Telemetry",
+      "textPreview": "同类任务、同一风险边界：试点前基线 vs. 试点后趋势 | 业务价值｜工程质量｜自治健康｜人机成本  ←  Intent Contract + Evidence Bundle + Telemetry",
+      "resolvedFontSize": 23.75,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "同类任务、同一风险边界：试点前基线 vs. 试点后趋势"
+          },
+          {
+            "index": 2,
+            "text": "业务价值｜工程质量｜自治健康｜人机成本  ←  Intent Contract + Evidence"
+          },
+          {
+            "index": 3,
+            "text": "Bundle + Telemetry"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "同类任务、同一风险边界：试点前基线 vs. 试点后趋势",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "同类任务、同一风险边界：试点前基线 vs. 试点后趋势",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "业务价值｜工程质量｜自治健康｜人机成本  ←  Intent Contract + Evidence Bundle + Telemetry",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Helvetica Neue",
+            "color": "#425466",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "业务价值｜工程质量｜自治健康｜人机成本  ←  Intent Contract + Evidence Bundle + Telemetry",
+              "fontSize": 16,
+              "typeface": "Helvetica Neue",
+              "color": "#425466"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixsvel0j",
+      "id": "47",
+      "name": "footer",
+      "bbox": [
+        62,
+        681,
+        1000,
+        17
+      ],
+      "geometry": "rect",
+      "text": "Agentic Agile｜以真实价值流证明 AI 转型，而非用代码生成率宣布成功",
+      "textPreview": "Agentic Agile｜以真实价值流证明 AI 转型，而非用代码生成率宣布成功",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Agentic Agile｜以真实价值流证明 AI 转型，而非用代码生成率宣布成功"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Agentic Agile｜以真实价值流证明 AI 转型，而非用代码生成率宣布成功",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Helvetica Neue",
+            "color": "#6E7E92",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Agentic Agile｜以真实价值流证明 AI 转型，而非用代码生成率宣布成功",
+              "fontSize": 12,
+              "typeface": "Helvetica Neue",
+              "color": "#6E7E92"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

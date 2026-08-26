@@ -1,0 +1,6 @@
+Source deck inventory: one 16:9 slide using a Title Slide layout and Master. No image, chart or table is inherited; all visible content is slide-local shapes/text boxes. Typography uses Helvetica Neue for the Chinese title/body system, with Calibri fallbacks in the theme.
+
+Reusable pattern: title/subtitle, a dark value-stream banner, four colored phase cards, four operating rails, metric/proof panels and a small footer. The source already differentiates 3-4-3 terms through inline color emphasis: role names in yellow, SCOPE-V in cyan, and the four governance artifacts in green.
+
+Insertion contract: preserve all source geometry, colors and hierarchy. Add only seven small raster line icons in empty upper-right card corners and the unused right tail of the artifact rail. The icons serve as reading anchors and never replace required text.
+

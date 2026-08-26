@@ -1,0 +1,59 @@
+{"kind":"deck","id":"pr/8cenuo","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"3-4-3 in the SDLC: Autonomy Along the Value Stream","textShapes":29}
+{"kind":"textbox","id":"sh/buh0nqtg","slide":1,"name":"title","text":"3-4-3 in the SDLC: Autonomy Along the Value Stream","textPreview":"3-4-3 in the SDLC: Autonomy Along the Value Stream","textChars":50,"textLines":1,"bbox":[62,28,1156,42]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"subtitle","text":"From customer request to release, three roles, four artifacts, three autonomy mechanisms and SCOPE-V operate together.","textPreview":"From customer request to release, three roles, four artifacts, three autonomy mechanisms and SCOPE-V operate together.","textChars":118,"textLines":1,"bbox":[64,76,1040,24]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"thesis","bbox":[62,112,1156,34]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"thesis-text","text":"Value stream: Customer request → Clarification → Definition → Architecture → Code → SIT → Integration test → Release","textPreview":"Value stream: Customer request → Clarification → Definition → Architecture → Code → SIT → Integration test → Release","textChars":116,"textLines":1,"bbox":[82,120,1115,20]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"flow-arrow-1","bbox":[338,230,32,0]}
+{"kind":"shape","id":"sh/ts7md4r2","slide":1,"name":"flow-arrow-2","bbox":[616,230,32,0]}
+{"kind":"shape","id":"sh/sryl4zqx","slide":1,"name":"flow-arrow-3","bbox":[894,230,32,0]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"name":"phase-选对价值流","bbox":[62,164,258,132]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"name":"phase-time-选对价值流","text":"Intent Injection","textPreview":"Intent Injection","textChars":16,"textLines":1,"bbox":[80,177,74,19]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"name":"phase-title-选对价值流","text":"Request → Clarify","textPreview":"Request → Clarify","textChars":17,"textLines":1,"bbox":[80,204,220,27]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"name":"phase-body-选对价值流","text":"IO + Owner: goal / guardrails\nSCOPE-V: Specify\nIntent Graph + IWE","textPreview":"IO + Owner: goal / guardrails | SCOPE-V: Specify | Intent Graph + IWE","textChars":65,"textLines":3,"bbox":[80,238,220,48]}
+{"kind":"shape","id":"sh/ul4vaxgb","slide":1,"name":"phase-跑通受控闭环","bbox":[340,164,258,132]}
+{"kind":"textbox","id":"sh/vmdcj2xw","slide":1,"name":"phase-time-跑通受控闭环","text":"Intent Injection","textPreview":"Intent Injection","textChars":16,"textLines":1,"bbox":[358,177,74,19]}
+{"kind":"textbox","id":"sh/4r6dg7et","slide":1,"name":"phase-title-跑通受控闭环","text":"Define → Architect","textPreview":"Define → Architect","textChars":18,"textLines":1,"bbox":[358,204,220,27]}
+{"kind":"textbox","id":"sh/5sfepcfe","slide":1,"name":"phase-body-跑通受控闭环","text":"IO: Contract / AC; OA: constraints\nSCOPE-V: Constrain / Orchestrate\nContract + Constraint + Work Graph","textPreview":"IO: Contract / AC; OA: constraints | SCOPE-V: Constrain / Orchestrate | Contract + Constraint + Work Graph","textChars":102,"textLines":3,"bbox":[358,238,240,48]}
+{"kind":"shape","id":"sh/ipovexwn","slide":1,"name":"phase-让上下文与经验复利","bbox":[618,164,258,132]}
+{"kind":"textbox","id":"sh/3qxwn2x8","slide":1,"name":"phase-time-让上下文与经验复利","text":"Self-check","textPreview":"Self-check","textChars":10,"textLines":1,"bbox":[636,177,74,19]}
+{"kind":"textbox","id":"sh/sfqdkrep","slide":1,"name":"phase-title-让上下文与经验复利","text":"Code → SIT","textPreview":"Code → SIT","textChars":10,"textLines":1,"bbox":[636,204,220,27]}
+{"kind":"textbox","id":"sh/dgzetcfa","slide":1,"name":"phase-body-让上下文与经验复利","text":"AS: build / SIT; OA: Harness\nSCOPE-V: Prove ↔ Evolve\nCode Map + Evidence","textPreview":"AS: build / SIT; OA: Harness | SCOPE-V: Prove ↔ Evolve | Code Map + Evidence","textChars":72,"textLines":3,"bbox":[636,238,220,48]}
+{"kind":"shape","id":"sh/1cvuxc7e","slide":1,"name":"phase-扩大可复制能力","bbox":[896,164,258,132]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"phase-time-扩大可复制能力","text":"HITL Gate","textPreview":"HITL Gate","textChars":9,"textLines":1,"bbox":[914,177,74,19]}
+{"kind":"textbox","id":"sh/zadcv2p8","slide":1,"name":"phase-title-扩大可复制能力","text":"Integrate → Ship","textPreview":"Integrate → Ship","textChars":16,"textLines":1,"bbox":[914,204,220,27]}
+{"kind":"textbox","id":"sh/e94v2hon","slide":1,"name":"phase-body-扩大可复制能力","text":"AS: integrate / regress; IO/OA: Verify\nSCOPE-V: Verify → Telemetry\nEvidence + Memory","textPreview":"AS: integrate / regress; IO/OA: Verify | SCOPE-V: Verify → Telemetry | Evidence + Memory","textChars":84,"textLines":3,"bbox":[914,238,220,48]}
+{"kind":"textbox","id":"sh/90ve1w7q","slide":1,"name":"four-dim-title","text":"3-4-3 in Four Dimensions: roles, artifacts and autonomy run on one value stream","textPreview":"3-4-3 in Four Dimensions: roles, artifacts and autonomy run on one value stream","textChars":79,"textLines":1,"bbox":[62,312,900,24]}
+{"kind":"shape","id":"sh/ozmd8r65","slide":1,"name":"rail-人员","bbox":[62,344,1156,38]}
+{"kind":"shape","id":"sh/nydczmpk","slide":1,"name":"rail-chip-人员","bbox":[62,344,112,38]}
+{"kind":"textbox","id":"sh/mx4v6hoz","slide":1,"name":"rail-label-人员","text":"People","textPreview":"People","textChars":6,"textLines":1,"bbox":[74,352,90,22]}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"name":"rail-body-人员","text":"IO owns intent / release; OA controls / orchestrates; AS executes code, tests and integration within boundary.","textPreview":"IO owns intent / release; OA controls / orchestrates; AS executes code, tests and integration within boundary.","textChars":110,"textLines":1,"bbox":[192,351,1000,24]}
+{"kind":"shape","id":"sh/432dwn6l","slide":1,"name":"rail-组织","bbox":[62,387,1156,38]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"rail-chip-组织","bbox":[62,387,112,38]}
+{"kind":"textbox","id":"sh/vyp0je1s","slide":1,"name":"rail-label-组织","text":"Organization","textPreview":"Organization","textChars":12,"textLines":1,"bbox":[74,395,90,22]}
+{"kind":"textbox","id":"sh/wzy1szid","slide":1,"name":"rail-body-组织","text":"Business owner, product, architecture, engineering, test and operations collaborate on one Contract; exceptions use explicit gates.","textPreview":"Business owner, product, architecture, engineering, test and operations collaborate on one Contract; exceptions use explicit gates.","textChars":131,"textLines":1,"bbox":[192,394,1000,24]}
+{"kind":"shape","id":"sh/h072l4jy","slide":1,"name":"rail-流程","bbox":[62,430,1156,38]}
+{"kind":"shape","id":"sh/i1gje90j","slide":1,"name":"rail-chip-流程","bbox":[62,430,112,38]}
+{"kind":"textbox","id":"sh/j2pkne14","slide":1,"name":"rail-label-流程","text":"Process","textPreview":"Process","textChars":7,"textLines":1,"bbox":[74,438,90,22]}
+{"kind":"textbox","id":"sh/43y1gji9","slide":1,"name":"rail-body-流程","text":"SCOPE-V: Specify → Constrain / Orchestrate → Prove ↔ Evolve → Verify → Telemetry; every step has entry, stop and evidence conditions.","textPreview":"SCOPE-V: Specify → Constrain / Orchestrate → Prove ↔ Evolve → Verify → Telemetry; every step has entry, stop and evidence conditions.","textChars":133,"textLines":1,"bbox":[192,437,1000,24]}
+{"kind":"shape","id":"sh/54r2poju","slide":1,"name":"rail-工具","bbox":[62,473,1156,38]}
+{"kind":"shape","id":"sh/y5wjip0z","slide":1,"name":"rail-chip-工具","bbox":[62,473,112,38]}
+{"kind":"textbox","id":"sh/z650ba1k","slide":1,"name":"rail-label-工具","text":"Artifacts","textPreview":"Artifacts","textChars":9,"textLines":1,"bbox":[74,481,90,22]}
+{"kind":"textbox","id":"sh/z2xgf6to","slide":1,"name":"rail-body-工具","text":"4 artifacts: Intent Graph → Contract → Constraint Matrix → Evidence; IWE×Code Map, Harness, Memory and Telemetry.","textPreview":"4 artifacts: Intent Graph → Contract → Constraint Matrix → Evidence; IWE×Code Map, Harness, Memory and Telemetry.","textChars":113,"textLines":1,"bbox":[192,480,1000,24]}
+{"kind":"shape","id":"sh/e1oz61c3","slide":1,"name":"outcome-panel","bbox":[62,532,544,128]}
+{"kind":"textbox","id":"sh/14fyhgbe","slide":1,"name":"outcome-head","text":"Action Metrics","textPreview":"Action Metrics","textChars":14,"textLines":1,"bbox":[84,548,190,23]}
+{"kind":"textbox","id":"sh/036h8but","slide":1,"name":"outcome-body","text":"Demand: C&A% / rework | Build: Code→SIT LT / first-pass\nDelivery: Integration→Release LT / escape defects | Run: rollback, HITL, cost","textPreview":"Demand: C&A% / rework | Build: Code→SIT LT / first-pass | Delivery: Integration→Release LT / escape defects | Run: rollback, HITL, cost","textChars":133,"textLines":2,"bbox":[84,579,490,57]}
+{"kind":"shape","id":"sh/nqxgjqtk","slide":1,"name":"proof-panel","bbox":[632,532,586,128]}
+{"kind":"textbox","id":"sh/mpozalcz","slide":1,"name":"proof-head","text":"Proof: End-to-End Delivery","textPreview":"Proof: End-to-End Delivery","textChars":26,"textLines":1,"bbox":[654,548,260,23]}
+{"kind":"textbox","id":"sh/9sfylgbq","slide":1,"name":"proof-body","text":"Primary: end-to-end Lead Time | Supporting: C&A%, first-pass, rework, escape defects\nComparable work, same risk: baseline vs. trend + Contract / Evidence / Telemetry","textPreview":"Primary: end-to-end Lead Time | Supporting: C&A%, first-pass, rework, escape defects | Comparable work, same risk: baseline vs. trend + C...","textChars":165,"textLines":2,"bbox":[654,579,538,57]}
+{"kind":"textbox","id":"sh/or6hcvu5","slide":1,"name":"footer","text":"Agentic Agile | Faster, more accurate, more controllable SDLC—results you can prove","textPreview":"Agentic Agile | Faster, more accurate, more controllable SDLC—results you can prove","textChars":83,"textLines":1,"bbox":[62,681,1000,17]}
+{"kind":"image","id":"im/1w7mxkj2","slide":1,"name":"","alt":"Intent Owner role","bbox":[1082,349,26,26]}
+{"kind":"image","id":"im/v2tw3ipg","slide":1,"name":"","alt":"Orchestration Architect role","bbox":[1119,349,26,26]}
+{"kind":"image","id":"im/a1kfad8b","slide":1,"name":"","alt":"Autonomous Software Agent role","bbox":[1156,349,26,26]}
+{"kind":"image","id":"im/h4by5s7m","slide":1,"name":"","alt":"Intent Graph artifact","bbox":[279,172,26,26]}
+{"kind":"image","id":"im/w32xcnq1","slide":1,"name":"","alt":"Intent Contract artifact","bbox":[557,172,26,26]}
+{"kind":"image","id":"im/j6tg72ps","slide":1,"name":"","alt":"Constraint Matrix artifact","bbox":[835,172,26,26]}
+{"kind":"image","id":"im/i5kfex87","slide":1,"name":"","alt":"Evidence artifact","bbox":[1113,172,26,26]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources]\n- Agentic Agile book, Chapter 5: 3-4-3, four dynamic governance artifacts, and SCOPE-V.\n- Agentic Agile book, Chapter 25: IWE, Document Map and Code Map.\n- Agentic Agile book, Chapter 26: Basic Memory and evidence-gated learning promotion.\n- Visual asset: original line-icon strip generated for this presentation; it represents generic roles and governance artifacts, not real individuals or products.\n\n[Presenter Notes]\n- Read top-to-bottom: the value stream is the operating surface, cards show where the three autonomy mechanisms occur, and rails show the people, organization, process and tools that make them governable.\n- The three avatar icons denote IO, OA and AS. The four artifact icons denote Intent Graph, Intent Contract, Constraint Matrix and Evidence.\n- Judge improvement with comparable work and the same risk boundary: shorter end-to-end lead time must be accompanied by evidence, quality and governance controls."}

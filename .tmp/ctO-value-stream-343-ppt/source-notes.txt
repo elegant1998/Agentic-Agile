@@ -1,0 +1,7 @@
+Internal source material
+
+- Agentic Agile book, Chapters 5–8: 3-4-3 roles, four dynamic governance artifacts, and three autonomy mechanisms.
+- Agentic Agile book, Chapters 9–17: SCOPE-V control loop, Prove/Evolve, Verify and Telemetry.
+- Agentic Agile book, Chapters 25–26: IWE Document Map, Code Map, Basic/Agent Memory and evidence-backed promotion.
+
+This revision makes the 3-4-3 embedding explicit at each SDLC phase while retaining the enterprise-defined C&A% metric label.

@@ -1,0 +1,56 @@
+{"kind":"deck","id":"pr/2v6jhe","name":"Deck"}
+{"kind":"layout","layoutId":"fe050cbf-e455-445c-b0af-94b09a9a5b59","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"2d63dabc-8977-4107-95e1-beda836b6cbe","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/5yi40d","slide":1,"title":"AGENTIC AGILE 3-4-3  |  GOVERNANCE INTERFACE","textShapes":37}
+{"kind":"textbox","id":"sh/nq9gjm18","slide":1,"name":"eyebrow","text":"AGENTIC AGILE 3-4-3  |  GOVERNANCE INTERFACE","textPreview":"AGENTIC AGILE 3-4-3  |  GOVERNANCE INTERFACE","textChars":44,"textLines":1,"bbox":[64,42,720,22]}
+{"kind":"textbox","id":"sh/or2xcr2t","slide":1,"name":"title","text":"Four Dynamic Governance Artifacts","textPreview":"Four Dynamic Governance Artifacts","textChars":33,"textLines":1,"bbox":[64,70,1050,52]}
+{"kind":"textbox","id":"sh/9sbylwje","slide":1,"name":"subtitle","text":"What each artifact contains, a representative task example, and the evidence it creates for the next control step.","textPreview":"What each artifact contains, a representative task example, and the evidence it creates for the next control step.","textChars":114,"textLines":1,"bbox":[64,126,1080,30]}
+{"kind":"shape","id":"sh/el0f6hkr","slide":1,"name":"artifact-chain","bbox":[182,221,916,0]}
+{"kind":"shape","id":"sh/zm9gfm1c","slide":1,"name":"card-IG","bbox":[64,180,252,402]}
+{"kind":"shape","id":"sh/0nix872x","slide":1,"name":"code-IG","bbox":[84,198,48,40]}
+{"kind":"textbox","id":"sh/1oryhcj2","slide":1,"name":"code-text-IG","text":"IG","textPreview":"IG","textChars":2,"textLines":1,"bbox":[84,207,48,22]}
+{"kind":"textbox","id":"sh/qxgf2xkf","slide":1,"name":"title-IG","text":"Intent Graph","textPreview":"Intent Graph","textChars":12,"textLines":1,"bbox":[144,202,154,32]}
+{"kind":"textbox","id":"sh/rypwb210","slide":1,"name":"contains-label-IG","text":"CONTAINS","textPreview":"CONTAINS","textChars":8,"textLines":1,"bbox":[84,258,110,18]}
+{"kind":"textbox","id":"sh/ryxgzupg","slide":1,"name":"contains-IG","text":"• Objective & metric\n• Users & capabilities\n• Dependencies & decisions","textPreview":"• Objective & metric | • Users & capabilities | • Dependencies & decisions","textChars":70,"textLines":3,"bbox":[84,282,212,88]}
+{"kind":"shape","id":"sh/6x4f6p8v","slide":1,"name":"example-box-IG","bbox":[80,386,220,100]}
+{"kind":"textbox","id":"sh/t0fy147m","slide":1,"name":"example-label-IG","text":"TASK EXAMPLE","textPreview":"TASK EXAMPLE","textChars":12,"textLines":1,"bbox":[92,398,130,16]}
+{"kind":"textbox","id":"sh/sz6x8zq1","slide":1,"name":"example-IG","text":"Reduce high-value reimbursement cycle time by 30% without increasing error rate.","textPreview":"Reduce high-value reimbursement cycle time by 30% without increasing error rate.","textChars":80,"textLines":1,"bbox":[92,421,196,52]}
+{"kind":"textbox","id":"sh/f2xg3eps","slide":1,"name":"output-label-IG","text":"OUTPUT","textPreview":"OUTPUT","textChars":6,"textLines":1,"bbox":[84,510,80,16]}
+{"kind":"textbox","id":"sh/e1oza987","slide":1,"name":"output-IG","text":"Traceable goal-to-task map","textPreview":"Traceable goal-to-task map","textChars":26,"textLines":1,"bbox":[84,532,210,24]}
+{"kind":"shape","id":"sh/14fy5o7i","slide":1,"name":"card-IC","bbox":[352,180,252,402]}
+{"kind":"shape","id":"sh/g36hcjqx","slide":1,"name":"code-IC","bbox":[372,198,48,40]}
+{"kind":"textbox","id":"sh/v6tgrap8","slide":1,"name":"code-text-IC","text":"IC","textPreview":"IC","textChars":2,"textLines":1,"bbox":[372,207,48,22]}
+{"kind":"textbox","id":"sh/u5kfy58n","slide":1,"name":"title-IC","text":"Intent Contract","textPreview":"Intent Contract","textChars":15,"textLines":1,"bbox":[432,202,154,32]}
+{"kind":"textbox","id":"sh/ylsj6dsb","slide":1,"name":"contains-label-IC","text":"CONTAINS","textPreview":"CONTAINS","textChars":8,"textLines":1,"bbox":[372,258,110,18]}
+{"kind":"textbox","id":"sh/zm10zi9w","slide":1,"name":"contains-IC","text":"• Scope / non-goals\n• Acceptance criteria\n• Authority & risk boundary","textPreview":"• Scope / non-goals | • Acceptance criteria | • Authority & risk boundary","textChars":69,"textLines":3,"bbox":[372,282,212,88]}
+{"kind":"shape","id":"sh/0na18nah","slide":1,"name":"example-box-IC","bbox":[368,386,220,100]}
+{"kind":"textbox","id":"sh/loji1sr2","slide":1,"name":"example-label-IC","text":"TASK EXAMPLE","textPreview":"TASK EXAMPLE","textChars":12,"textLines":1,"bbox":[380,398,130,16]}
+{"kind":"textbox","id":"sh/qxsj2dsf","slide":1,"name":"example-IC","text":"T-001: approve high-value reimbursement within the agreed risk envelope.","textPreview":"T-001: approve high-value reimbursement within the agreed risk envelope.","textChars":72,"textLines":1,"bbox":[380,421,196,52]}
+{"kind":"textbox","id":"sh/by10vi90","slide":1,"name":"output-label-IC","text":"OUTPUT","textPreview":"OUTPUT","textChars":6,"textLines":1,"bbox":[372,510,80,16]}
+{"kind":"textbox","id":"sh/cja14na5","slide":1,"name":"output-IC","text":"Signed execution envelope","textPreview":"Signed execution envelope","textChars":25,"textLines":1,"bbox":[372,532,210,24]}
+{"kind":"shape","id":"sh/dkjix8rq","slide":1,"name":"card-CM","bbox":[640,180,252,402]}
+{"kind":"shape","id":"sh/2t8jyts3","slide":1,"name":"code-CM","bbox":[660,198,48,40]}
+{"kind":"textbox","id":"sh/3uh0ry9o","slide":1,"name":"code-text-CM","text":"CM","textPreview":"CM","textChars":2,"textLines":1,"bbox":[660,207,48,22]}
+{"kind":"textbox","id":"sh/587mxwb6","slide":1,"name":"title-CM","text":"Constraint Matrix","textPreview":"Constraint Matrix","textChars":17,"textLines":1,"bbox":[720,202,154,32]}
+{"kind":"textbox","id":"sh/4nel4bal","slide":1,"name":"contains-label-CM","text":"CONTAINS","textPreview":"CONTAINS","textChars":8,"textLines":1,"bbox":[660,258,110,18]}
+{"kind":"textbox","id":"sh/jm54v6t0","slide":1,"name":"contains-CM","text":"• Access / data policies\n• Must / must-not rules\n• Thresholds / rollback","textPreview":"• Access / data policies | • Must / must-not rules | • Thresholds / rollback","textChars":72,"textLines":3,"bbox":[660,282,212,88]}
+{"kind":"shape","id":"sh/ilw321cv","slide":1,"name":"example-box-CM","bbox":[656,386,220,100]}
+{"kind":"textbox","id":"sh/hknmtwba","slide":1,"name":"example-label-CM","text":"TASK EXAMPLE","textPreview":"TASK EXAMPLE","textChars":12,"textLines":1,"bbox":[668,398,130,16]}
+{"kind":"textbox","id":"sh/wjel0rup","slide":1,"name":"example-CM","text":"Amount > $5k needs human approval; never read production PII.","textPreview":"Amount > $5k needs human approval; never read production PII.","textChars":61,"textLines":1,"bbox":[668,421,196,52]}
+{"kind":"textbox","id":"sh/vi54rmt4","slide":1,"name":"output-label-CM","text":"OUTPUT","textPreview":"OUTPUT","textChars":6,"textLines":1,"bbox":[660,510,80,16]}
+{"kind":"textbox","id":"sh/uhw3yhcj","slide":1,"name":"output-CM","text":"Executable guardrails","textPreview":"Executable guardrails","textChars":21,"textLines":1,"bbox":[660,532,210,24]}
+{"kind":"shape","id":"sh/9gnmpcby","slide":1,"name":"card-EB","bbox":[928,180,252,402]}
+{"kind":"shape","id":"sh/8fulw7ud","slide":1,"name":"code-EB","bbox":[948,198,48,40]}
+{"kind":"textbox","id":"sh/8j6dwvap","slide":1,"name":"code-text-EB","text":"EB","textPreview":"EB","textChars":2,"textLines":1,"bbox":[948,207,48,22]}
+{"kind":"textbox","id":"sh/9kfu5gba","slide":1,"name":"title-EB","text":"Evidence","textPreview":"Evidence","textChars":8,"textLines":1,"bbox":[1008,202,154,32]}
+{"kind":"textbox","id":"sh/mh4bulsj","slide":1,"name":"contains-label-EB","text":"CONTAINS","textPreview":"CONTAINS","textChars":8,"textLines":1,"bbox":[948,258,110,18]}
+{"kind":"textbox","id":"sh/nidc3qt4","slide":1,"name":"contains-EB","text":"• Tests / evaluation\n• Traces / citations\n• Decisions / exceptions","textPreview":"• Tests / evaluation | • Traces / citations | • Decisions / exceptions","textChars":66,"textLines":3,"bbox":[948,282,212,88]}
+{"kind":"shape","id":"sh/wn6d0val","slide":1,"name":"example-box-EB","bbox":[944,386,220,100]}
+{"kind":"textbox","id":"sh/xofu90b6","slide":1,"name":"example-label-EB","text":"TASK EXAMPLE","textPreview":"TASK EXAMPLE","textChars":12,"textLines":1,"bbox":[956,398,130,16]}
+{"kind":"textbox","id":"sh/alovylsf","slide":1,"name":"example-EB","text":"EB-T-001: policy check, test report and approver decision.","textPreview":"EB-T-001: policy check, test report and approver decision.","textChars":58,"textLines":1,"bbox":[956,421,196,52]}
+{"kind":"textbox","id":"sh/vmxc7qt0","slide":1,"name":"output-label-EB","text":"OUTPUT","textPreview":"OUTPUT","textChars":6,"textLines":1,"bbox":[948,510,80,16]}
+{"kind":"textbox","id":"sh/cr2tobuh","slide":1,"name":"output-EB","text":"Auditable proof pack","textPreview":"Auditable proof pack","textChars":20,"textLines":1,"bbox":[948,532,210,24]}
+{"kind":"shape","id":"sh/dsvuxwb2","slide":1,"name":"control-chain","bbox":[64,614,1152,62]}
+{"kind":"textbox","id":"sh/f61g3edk","slide":1,"name":"control-chain-title","text":"CONTROL CHAIN","textPreview":"CONTROL CHAIN","textChars":13,"textLines":1,"bbox":[88,631,138,20]}
+{"kind":"textbox","id":"sh/ulsfa9cz","slide":1,"name":"control-chain-text","text":"Intent → authorised work → enforced boundaries → auditable facts → trusted next task.","textPreview":"Intent → authorised work → enforced boundaries → auditable facts → trusted next task.","textChars":85,"textLines":1,"bbox":[230,627,930,26]}
+{"kind":"notes","id":"nt/5yi40d","slide":1,"text":"[Sources]\n- Agentic Agile Book, Chapter 5: the four dynamic governance artifacts.\n- Agentic Agile Book, Chapter 7: Intent Graph and Intent Contract.\n\n[Presenter Notes]\n- Use this figure to make the governance artifacts concrete. A task should not begin with only a prompt: it starts from a traceable intent, an agreed execution contract and executable constraints.\n- Evidence is not a report written after delivery. It is the proof layer that connects results, decisions and exceptions back to the intent and feeds trusted learning into the next task."}

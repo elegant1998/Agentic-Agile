@@ -1,0 +1,4 @@
+Content source: Agentic Agile book, Chapter 5 (four dynamic governance artifacts) and Chapter 7 (Intent Graph and Intent Contract).
+Purpose: an English explanatory figure showing the minimum contents, a concrete example and the resulting artifact for each governance artifact.
+Design: standalone 16:9 editorial infographic; pale blue technical treatment aligned with the existing 3-4-3 architecture image.
+

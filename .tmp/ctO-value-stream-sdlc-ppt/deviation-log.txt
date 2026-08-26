@@ -1,0 +1,1 @@
+Slide 1: Rewrites the original pilot-phase copy into an SDLC-stage operational view. All original shapes, positions, typefaces, font sizes, colors, and connectors are retained. No new visual primitives are added.

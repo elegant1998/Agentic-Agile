@@ -1,0 +1,48 @@
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"把 3-4-3 嵌入 SDLC：用一条价值流完成 AI 转型","textShapes":29}
+{"kind":"textbox","id":"sh/buh0nqtg","slide":1,"name":"title","text":"把 3-4-3 嵌入 SDLC：用一条价值流完成 AI 转型","textPreview":"把 3-4-3 嵌入 SDLC：用一条价值流完成 AI 转型","textChars":30,"textLines":1,"bbox":[62,28,1156,42]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"subtitle","text":"客户需求提出到对外发布，每一阶段都有责任、边界、Agent 行动、证据与可量化的改善。","textPreview":"客户需求提出到对外发布，每一阶段都有责任、边界、Agent 行动、证据与可量化的改善。","textChars":43,"textLines":1,"bbox":[64,76,1040,24]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"thesis","bbox":[62,112,1156,34]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"thesis-text","text":"价值流：客户需求 → 需求澄清 → 需求定义 → 架构设计 → 编码 → SIT → 集成测试 → 对外发布","textPreview":"价值流：客户需求 → 需求澄清 → 需求定义 → 架构设计 → 编码 → SIT → 集成测试 → 对外发布","textChars":54,"textLines":1,"bbox":[82,120,1115,20]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"flow-arrow-1","bbox":[338,230,32,0]}
+{"kind":"shape","id":"sh/ts7md4r2","slide":1,"name":"flow-arrow-2","bbox":[616,230,32,0]}
+{"kind":"shape","id":"sh/sryl4zqx","slide":1,"name":"flow-arrow-3","bbox":[894,230,32,0]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"name":"phase-选对价值流","bbox":[62,164,258,132]}
+{"kind":"textbox","id":"sh/utg3698n","slide":1,"name":"phase-time-选对价值流","text":"需求形成","textPreview":"需求形成","textChars":4,"textLines":1,"bbox":[80,177,74,19]}
+{"kind":"textbox","id":"sh/wn6dc7eh","slide":1,"name":"phase-title-选对价值流","text":"客户需求 → 澄清","textPreview":"客户需求 → 澄清","textChars":9,"textLines":1,"bbox":[80,204,220,27]}
+{"kind":"textbox","id":"sh/hofulsf2","slide":1,"name":"phase-body-选对价值流","text":"IO：价值、护栏、假设\nAgent：资料、访谈、反例","textPreview":"IO：价值、护栏、假设 | Agent：资料、访谈、反例","textChars":26,"textLines":2,"bbox":[80,238,220,48]}
+{"kind":"shape","id":"sh/ul4vaxgb","slide":1,"name":"phase-跑通受控闭环","bbox":[340,164,258,132]}
+{"kind":"textbox","id":"sh/vmdcj2xw","slide":1,"name":"phase-time-跑通受控闭环","text":"需求定型","textPreview":"需求定型","textChars":4,"textLines":1,"bbox":[358,177,74,19]}
+{"kind":"textbox","id":"sh/4r6dg7et","slide":1,"name":"phase-title-跑通受控闭环","text":"定义 → 架构","textPreview":"定义 → 架构","textChars":7,"textLines":1,"bbox":[358,204,220,27]}
+{"kind":"textbox","id":"sh/5sfepcfe","slide":1,"name":"phase-body-跑通受控闭环","text":"IO：签署 Contract / AC\nOA：约束、上下文、Work Graph","textPreview":"IO：签署 Contract / AC | OA：约束、上下文、Work Graph","textChars":40,"textLines":2,"bbox":[358,238,220,48]}
+{"kind":"shape","id":"sh/ipovexwn","slide":1,"name":"phase-让上下文与经验复利","bbox":[618,164,258,132]}
+{"kind":"textbox","id":"sh/3qxwn2x8","slide":1,"name":"phase-time-让上下文与经验复利","text":"工程闭环","textPreview":"工程闭环","textChars":4,"textLines":1,"bbox":[636,177,74,19]}
+{"kind":"textbox","id":"sh/sfqdkrep","slide":1,"name":"phase-title-让上下文与经验复利","text":"编码 → SIT","textPreview":"编码 → SIT","textChars":8,"textLines":1,"bbox":[636,204,220,27]}
+{"kind":"textbox","id":"sh/dgzetcfa","slide":1,"name":"phase-body-让上下文与经验复利","text":"AS：受控实现与测试\nOA：Harness、Prove / Evolve","textPreview":"AS：受控实现与测试 | OA：Harness、Prove / Evolve","textChars":36,"textLines":2,"bbox":[636,238,220,48]}
+{"kind":"shape","id":"sh/1cvuxc7e","slide":1,"name":"phase-扩大可复制能力","bbox":[896,164,258,132]}
+{"kind":"textbox","id":"sh/0bmd476t","slide":1,"name":"phase-time-扩大可复制能力","text":"交付裁决","textPreview":"交付裁决","textChars":4,"textLines":1,"bbox":[914,177,74,19]}
+{"kind":"textbox","id":"sh/zadcv2p8","slide":1,"name":"phase-title-扩大可复制能力","text":"集成 → 发布","textPreview":"集成 → 发布","textChars":7,"textLines":1,"bbox":[914,204,220,27]}
+{"kind":"textbox","id":"sh/e94v2hon","slide":1,"name":"phase-body-扩大可复制能力","text":"AS：集成、回归与补证\nIO / OA：Verify、发布、回退","textPreview":"AS：集成、回归与补证 | IO / OA：Verify、发布、回退","textChars":32,"textLines":2,"bbox":[914,238,220,48]}
+{"kind":"textbox","id":"sh/90ve1w7q","slide":1,"name":"four-dim-title","text":"3-4-3 不是阶段外的附加治理，而是嵌入每一个 SDLC 阶段的运行方式","textPreview":"3-4-3 不是阶段外的附加治理，而是嵌入每一个 SDLC 阶段的运行方式","textChars":37,"textLines":1,"bbox":[62,312,900,24]}
+{"kind":"shape","id":"sh/ozmd8r65","slide":1,"name":"rail-人员","bbox":[62,344,1156,38]}
+{"kind":"shape","id":"sh/nydczmpk","slide":1,"name":"rail-chip-人员","bbox":[62,344,112,38]}
+{"kind":"textbox","id":"sh/mx4v6hoz","slide":1,"name":"rail-label-人员","text":"人员","textPreview":"人员","textChars":2,"textLines":1,"bbox":[74,352,90,22]}
+{"kind":"textbox","id":"sh/p4bu5s76","slide":1,"name":"rail-body-人员","text":"IO 主导需求、定义与发布裁决；OA 贯穿控制与编排；AS 承担编码、测试、集成的受约束执行。","textPreview":"IO 主导需求、定义与发布裁决；OA 贯穿控制与编排；AS 承担编码、测试、集成的受约束执行。","textChars":47,"textLines":1,"bbox":[192,351,1000,24]}
+{"kind":"shape","id":"sh/432dwn6l","slide":1,"name":"rail-组织","bbox":[62,387,1156,38]}
+{"kind":"shape","id":"sh/uxgjq907","slide":1,"name":"rail-chip-组织","bbox":[62,387,112,38]}
+{"kind":"textbox","id":"sh/vyp0je1s","slide":1,"name":"rail-label-组织","text":"组织","textPreview":"组织","textChars":2,"textLines":1,"bbox":[74,395,90,22]}
+{"kind":"textbox","id":"sh/wzy1szid","slide":1,"name":"rail-body-组织","text":"业务 Owner、产品、架构、研发、测试与运维围绕同一 Contract 协作；例外在正确节点裁决。","textPreview":"业务 Owner、产品、架构、研发、测试与运维围绕同一 Contract 协作；例外在正确节点裁决。","textChars":50,"textLines":1,"bbox":[192,394,1000,24]}
+{"kind":"shape","id":"sh/h072l4jy","slide":1,"name":"rail-流程","bbox":[62,430,1156,38]}
+{"kind":"shape","id":"sh/i1gje90j","slide":1,"name":"rail-chip-流程","bbox":[62,430,112,38]}
+{"kind":"textbox","id":"sh/j2pkne14","slide":1,"name":"rail-label-流程","text":"流程","textPreview":"流程","textChars":2,"textLines":1,"bbox":[74,438,90,22]}
+{"kind":"textbox","id":"sh/43y1gji9","slide":1,"name":"rail-body-流程","text":"Specify / Constrain / Orchestrate → Prove / Evolve → Verify：每一步都有启动条件、停止条件与 Evidence。","textPreview":"Specify / Constrain / Orchestrate → Prove / Evolve → Verify：每一步都有启动条件、停止条件与 Evidence。","textChars":85,"textLines":1,"bbox":[192,437,1000,24]}
+{"kind":"shape","id":"sh/54r2poju","slide":1,"name":"rail-工具","bbox":[62,473,1156,38]}
+{"kind":"shape","id":"sh/y5wjip0z","slide":1,"name":"rail-chip-工具","bbox":[62,473,112,38]}
+{"kind":"textbox","id":"sh/z650ba1k","slide":1,"name":"rail-label-工具","text":"工具","textPreview":"工具","textChars":2,"textLines":1,"bbox":[74,481,90,22]}
+{"kind":"textbox","id":"sh/z2xgf6to","slide":1,"name":"rail-body-工具","text":"Intent Graph / Contract / Constraint / Evidence + IWE×Code Map + Basic Memory：让事实随任务更新，不散落在聊天中。","textPreview":"Intent Graph / Contract / Constraint / Evidence + IWE×Code Map + Basic Memory：让事实随任务更新，不散落在聊天中。","textChars":95,"textLines":1,"bbox":[192,480,1000,24]}
+{"kind":"shape","id":"sh/e1oz61c3","slide":1,"name":"outcome-panel","bbox":[62,532,544,128]}
+{"kind":"textbox","id":"sh/14fyhgbe","slide":1,"name":"outcome-head","text":"阶段动作与改善指标","textPreview":"阶段动作与改善指标","textChars":9,"textLines":1,"bbox":[84,548,190,23]}
+{"kind":"textbox","id":"sh/036h8but","slide":1,"name":"outcome-body","text":"需求：C&A% / 澄清返工 ｜ 工程：编码→SIT Lead Time / 首次通过\n交付：集成→发布 Lead Time / 逃逸缺陷 ｜ 运行：回退、HITL、Token + 人工成本","textPreview":"需求：C&A% / 澄清返工 ｜ 工程：编码→SIT Lead Time / 首次通过 | 交付：集成→发布 Lead Time / 逃逸缺陷 ｜ 运行：回退、HITL、Token + 人工成本","textChars":95,"textLines":2,"bbox":[84,579,490,57]}
+{"kind":"shape","id":"sh/nqxgjqtk","slide":1,"name":"proof-panel","bbox":[632,532,586,128]}
+{"kind":"textbox","id":"sh/mpozalcz","slide":1,"name":"proof-head","text":"证明：不是局部效率，而是端到端有效交付","textPreview":"证明：不是局部效率，而是端到端有效交付","textChars":19,"textLines":1,"bbox":[654,548,260,23]}
+{"kind":"textbox","id":"sh/9sfylgbq","slide":1,"name":"proof-body","text":"主指标：端到端 Lead Time ｜ 配套：C&A%、首次通过、返工、逃逸缺陷\n同类任务、同一风险边界：基线 vs. 趋势 + Contract / Evidence / Telemetry","textPreview":"主指标：端到端 Lead Time ｜ 配套：C&A%、首次通过、返工、逃逸缺陷 | 同类任务、同一风险边界：基线 vs. 趋势 + Contract / Evidence / Telemetry","textChars":96,"textLines":2,"bbox":[654,579,538,57]}
+{"kind":"textbox","id":"sh/or6hcvu5","slide":1,"name":"footer","text":"Agentic Agile｜让每一个 SDLC 阶段更快、更准、更可控，并能证明结果","textPreview":"Agentic Agile｜让每一个 SDLC 阶段更快、更准、更可控，并能证明结果","textChars":42,"textLines":1,"bbox":[62,681,1000,17]}

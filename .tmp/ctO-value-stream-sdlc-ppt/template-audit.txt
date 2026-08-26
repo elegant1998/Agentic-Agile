@@ -1,0 +1,6 @@
+Source deck: Agentic-Agile-CTO-Value-Stream-Transformation-Map.pptx
+
+Source structure: one 16:9 slide with Helvetica Neue, white canvas, navy thesis bar, four equal phase panels, four horizontal transformation rails, and two proof/outcome panels.
+Reusable source slide: slide 1 only. No master-level media, charts, or inherited PowerPoint placeholders were found.
+
+Editing contract: preserve all shapes, positions, color system, typography, and simple connector relationships. Rewrite existing text only. The four phase panels will be reinterpreted as four paired SDLC stage groups; the rails will express four-dimensional embedding; the bottom panels will express stage-level metrics and proof.

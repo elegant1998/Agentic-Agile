@@ -1,0 +1,23 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "Chinese executive SDLC operating map with visual role and artifact anchors",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "shapeId": "sh/5sfepcfe", "action": "rewrite" },
+        { "shapeId": "sh/z2xgf6to", "action": "rewrite" },
+        {
+          "action": "add",
+          "newPrimitiveAllowed": true,
+          "mustNotOverlapInherited": true,
+          "zone": { "left": 275, "top": 170, "width": 905, "height": 125 },
+          "reason": "Small raster role and artifact icons are bounded reading anchors in otherwise unused card corners and rail tail."
+        }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}
+

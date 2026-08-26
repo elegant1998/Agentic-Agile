@@ -1,0 +1,9 @@
+Internal source material
+
+- Agentic Agile book, Chapter 2: four-dimensional transformation around a single value stream.
+- Agentic Agile book, Chapter 5: 3-4-3, SCOPE-V, Evidence and Telemetry operating model.
+- Agentic Agile book, Chapter 16: value and effectiveness telemetry, baseline and comparison discipline.
+- Agentic Agile book, Chapter 25: IWE Document Map, Code Map and Trace Link.
+- Agentic Agile book, Chapter 26: Basic Memory / Agent Memory read-write-promotion loop.
+
+This slide contains a recommended pilot sequence and measurement structure, not promised numerical outcomes.

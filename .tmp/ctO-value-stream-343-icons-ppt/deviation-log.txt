@@ -1,0 +1,4 @@
+CN v4: correct the phase-two typo "Constract" to "Contract"; shorten only the final tool-rail phrase to reserve a bounded visual zone for four artifact icons; preserve all user-authored 3-4-3 color emphasis.
+
+EN v4: retain the copied slide structure and original color/panel system while translating visible content into concise executive English. The same seven icon anchors are added in the same bounded zones.
+

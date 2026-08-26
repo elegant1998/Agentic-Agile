@@ -1,0 +1,57 @@
+{
+  "sourcePptx": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/deliverables/Agentic-Agile-CTO-SDLC-Value-Stream-Operating-Map-v2.pptx",
+  "workspace": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-ppt",
+  "outDir": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-ppt/template-inspect",
+  "generatedAt": "2026-08-26T02:19:23.168Z",
+  "slideCount": 1,
+  "slideArtifacts": [
+    {
+      "slide": 1,
+      "previewPath": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-ppt/template-inspect/source-slides/source-slide-01.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-01.png",
+      "layoutPath": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-ppt/template-inspect/layouts/source-slide-01.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-01.layout.json"
+    }
+  ],
+  "inspectPath": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-ppt/template-inspect/template-inspect.ndjson",
+  "inspectRelativePath": "template-inspect/template-inspect.ndjson",
+  "inspectTruncated": false,
+  "inspectMetadata": {
+    "revision": "97dvd9",
+    "target": {
+      "id": "pr/lb49qg"
+    },
+    "kind": {
+      "requested": "slide,textbox,shape,image,table,chart",
+      "tokens": [
+        "slide",
+        "textbox",
+        "shape",
+        "image",
+        "table",
+        "chart"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  },
+  "extractedMedia": [],
+  "fonts": [
+    "+mj-lt",
+    "+mn-lt",
+    "Calibri",
+    "Calibri Light",
+    "Helvetica Neue"
+  ],
+  "packageParts": {
+    "mediaCount": 0,
+    "slideXmlCount": 1,
+    "chartCount": 0,
+    "tableSlideCount": 0
+  }
+}

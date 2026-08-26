@@ -1,0 +1,1 @@
+Slide 1: Retains the original SDLC-value-stream layout. The update changes only text to surface three autonomy mechanisms, SCOPE-V placement, the four governance artifacts, and cross-stage tools. No new primitives are added.

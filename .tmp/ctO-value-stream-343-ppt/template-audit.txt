@@ -1,0 +1,5 @@
+Source deck: Agentic-Agile-CTO-SDLC-Value-Stream-Operating-Map-v2.pptx
+
+Source structure: one 16:9 slide with a white canvas, navy value-stream bar, four equal SDLC phase panels, four horizontal rails, and two metric/proof panels. Helvetica Neue is used throughout. No source media, charts, tables, or inherited PowerPoint placeholders were found.
+
+Editing contract: retain every visual primitive, position, typography and color. Rewrite only existing text. Phase labels will show the three autonomy mechanisms; the process rail will map SCOPE-V to the four SDLC phase groups; the tool rail will name the four governance artifacts and the cross-stage Context/Memory tooling.

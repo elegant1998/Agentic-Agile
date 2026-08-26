@@ -1,0 +1,12 @@
+Internal source material
+
+- Agentic Agile book, Chapter 2: four-dimensional transformation around one value stream.
+- Agentic Agile book, Chapters 5 and 9: 3-4-3 and SCOPE-V.
+- Agentic Agile book, Chapters 10–17: Specify through release, proof and telemetry.
+- Agentic Agile book, Chapters 16, 25 and 26: measurement, IWE/Code Map, and Basic/Agent Memory.
+
+Metric wording
+
+- Lead Time is treated as the end-to-end interval from a customer request entering the agreed value-stream boundary to external release.
+- C&A% is intentionally kept as the enterprise's existing C&A% metric label; this slide does not expand or redefine it.
+- This is a recommended operating model, not a promised numerical outcome.

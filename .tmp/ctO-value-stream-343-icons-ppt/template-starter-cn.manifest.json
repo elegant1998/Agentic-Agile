@@ -1,0 +1,24 @@
+{
+  "sourcePptx": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/deliverables/Agentic-Agile-CTO-SDLC-343-Embedding-Map-v3.pptx",
+  "mapPath": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-icons-ppt/template-frame-map-cn.json",
+  "output": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-icons-ppt/template-starter-cn.pptx",
+  "outputBytes": 17844,
+  "sourceSlideCount": 1,
+  "slideCount": 1,
+  "previewDir": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-icons-ppt/starter-cn-preview",
+  "layoutDir": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-icons-ppt/starter-cn-layout",
+  "contactSheet": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-icons-ppt/starter-cn-contact-sheet.png",
+  "slides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "Chinese executive SDLC operating map with visual role and artifact anchors",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 3,
+      "previewPath": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-icons-ppt/starter-cn-preview/starter-slide-01.png",
+      "previewRelativePath": "starter-cn-preview/starter-slide-01.png",
+      "layoutPath": "/Users/wanglijie/HappyLife/18-AI/Agentic-Agile/Agentic-Agile-Book/.tmp/ctO-value-stream-343-icons-ppt/starter-cn-layout/starter-slide-01.layout.json",
+      "layoutRelativePath": "starter-cn-layout/starter-slide-01.layout.json"
+    }
+  ]
+}

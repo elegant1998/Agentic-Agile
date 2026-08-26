@@ -1,0 +1,52 @@
+{"kind":"deck","id":"pr/wkwsrv","name":"Deck"}
+{"kind":"layout","layoutId":"1709a7e8-844f-474b-b88e-06ff48085c46","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"8247fb36-cd7e-456f-b3fe-7b49dfa2fbb1","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/4d0i5m","slide":1,"title":"用一条产品研发价值流，兑现 AI 转型的端到端提效","textShapes":29}
+{"kind":"textbox","id":"sh/1oru1cfm","slide":1,"name":"title","text":"用一条产品研发价值流，兑现 AI 转型的端到端提效","textPreview":"用一条产品研发价值流，兑现 AI 转型的端到端提效","textChars":25,"textLines":1,"bbox":[62,28,1156,42]}
+{"kind":"textbox","id":"sh/e1gbqhwv","slide":1,"name":"subtitle","text":"不是部署更多 Agent，而是让意图、受控执行、证据与学习在同一条价值流上闭环。","textPreview":"不是部署更多 Agent，而是让意图、受控执行、证据与学习在同一条价值流上闭环。","textChars":40,"textLines":1,"bbox":[64,76,1040,24]}
+{"kind":"shape","id":"sh/z29czmxg","slide":1,"name":"thesis","bbox":[62,112,1156,34]}
+{"kind":"textbox","id":"sh/oritwrex","slide":1,"name":"thesis-text","text":"试点目标：以一条真实产品研发价值流为单位，建立可签署、可运行、可验证、可复用的 AI 原生交付能力。","textPreview":"试点目标：以一条真实产品研发价值流为单位，建立可签署、可运行、可验证、可复用的 AI 原生交付能力。","textChars":50,"textLines":1,"bbox":[82,120,1115,20]}
+{"kind":"shape","id":"sh/9sru5wfi","slide":1,"name":"flow-arrow-1","bbox":[338,230,32,0]}
+{"kind":"shape","id":"sh/mp0buhw7","slide":1,"name":"flow-arrow-2","bbox":[616,230,32,0]}
+{"kind":"shape","id":"sh/nq9c3mxc","slide":1,"name":"flow-arrow-3","bbox":[894,230,32,0]}
+{"kind":"shape","id":"sh/4vytknet","slide":1,"name":"phase-选对价值流","bbox":[62,164,258,132]}
+{"kind":"textbox","id":"sh/pw7atsfe","slide":1,"name":"phase-time-选对价值流","text":"0–2 周","textPreview":"0–2 周","textChars":5,"textLines":1,"bbox":[80,177,74,19]}
+{"kind":"textbox","id":"sh/5gby9sf2","slide":1,"name":"phase-title-选对价值流","text":"选对价值流","textPreview":"选对价值流","textChars":5,"textLines":1,"bbox":[80,204,220,27]}
+{"kind":"textbox","id":"sh/kf2hgneh","slide":1,"name":"phase-body-选对价值流","text":"业务结果 + 关键瓶颈\n基线、风险与范围","textPreview":"业务结果 + 关键瓶颈 | 基线、风险与范围","textChars":20,"textLines":2,"bbox":[80,238,220,48]}
+{"kind":"shape","id":"sh/jutg72xc","slide":1,"name":"phase-跑通受控闭环","bbox":[340,164,258,132]}
+{"kind":"textbox","id":"sh/ytkfexwr","slide":1,"name":"phase-time-跑通受控闭环","text":"3–5 周","textPreview":"3–5 周","textChars":5,"textLines":1,"bbox":[358,177,74,19]}
+{"kind":"textbox","id":"sh/tkbydcfe","slide":1,"name":"phase-title-跑通受控闭环","text":"跑通受控闭环","textPreview":"跑通受控闭环","textChars":6,"textLines":1,"bbox":[358,204,220,27]}
+{"kind":"textbox","id":"sh/sj2hk7et","slide":1,"name":"phase-body-跑通受控闭环","text":"Intent Contract + SCOPE-V\nHarness、Prove、Evidence","textPreview":"Intent Contract + SCOPE-V | Harness、Prove、Evidence","textChars":48,"textLines":2,"bbox":[358,238,220,48]}
+{"kind":"shape","id":"sh/7itgb2x8","slide":1,"name":"phase-让上下文与经验复利","bbox":[618,164,258,132]}
+{"kind":"textbox","id":"sh/6hkzixwn","slide":1,"name":"phase-time-让上下文与经验复利","text":"6–9 周","textPreview":"6–9 周","textChars":5,"textLines":1,"bbox":[636,177,74,19]}
+{"kind":"textbox","id":"sh/hovyhcva","slide":1,"name":"phase-title-让上下文与经验复利","text":"让上下文与经验复利","textPreview":"让上下文与经验复利","textChars":9,"textLines":1,"bbox":[636,204,220,27]}
+{"kind":"textbox","id":"sh/gnmho7ep","slide":1,"name":"phase-body-让上下文与经验复利","text":"IWE 文档地图 + Code Map（双地图）\nEvidence → Basic / Agent Memory\n验证晋升 → 规则 / 测试 / Skill","textPreview":"IWE 文档地图 + Code Map（双地图） | Evidence → Basic / Agent Memory | 验证晋升 → 规则 / 测试 / Skill","textChars":79,"textLines":3,"bbox":[636,238,220,48]}
+{"kind":"shape","id":"sh/0ru1kvm1","slide":1,"name":"phase-扩大可复制能力","bbox":[896,164,258,132]}
+{"kind":"textbox","id":"sh/1s3id03m","slide":1,"name":"phase-time-扩大可复制能力","text":"10–12 周","textPreview":"10–12 周","textChars":7,"textLines":1,"bbox":[914,177,74,19]}
+{"kind":"textbox","id":"sh/epcjil4v","slide":1,"name":"phase-title-扩大可复制能力","text":"扩大可复制能力","textPreview":"扩大可复制能力","textChars":7,"textLines":1,"bbox":[914,204,220,27]}
+{"kind":"textbox","id":"sh/fql0bqlg","slide":1,"name":"phase-body-扩大可复制能力","text":"标准、技能与授权扩展\nTelemetry 支持扩大或收缩","textPreview":"标准、技能与授权扩展 | Telemetry 支持扩大或收缩","textChars":28,"textLines":2,"bbox":[914,238,220,48]}
+{"kind":"textbox","id":"sh/ovu1ovmx","slide":1,"name":"four-dim-title","text":"四维必须同时改变，但每一步只改造本轮闭环所需的最小部分","textPreview":"四维必须同时改变，但每一步只改造本轮闭环所需的最小部分","textChars":27,"textLines":1,"bbox":[62,312,900,24]}
+{"kind":"shape","id":"sh/pwnih03i","slide":1,"name":"rail-人员","bbox":[62,344,1156,38]}
+{"kind":"shape","id":"sh/2tcjml47","slide":1,"name":"rail-chip-人员","bbox":[62,344,112,38]}
+{"kind":"textbox","id":"sh/nul0fqls","slide":1,"name":"rail-label-人员","text":"人员","textPreview":"人员","textChars":2,"textLines":1,"bbox":[74,352,90,22]}
+{"kind":"textbox","id":"sh/4zahcbmt","slide":1,"name":"rail-body-人员","text":"IO / OA / AS：人从重复执行转向意图定义、控制设计、异常裁决与责任签署。","textPreview":"IO / OA / AS：人从重复执行转向意图定义、控制设计、异常裁决与责任签署。","textChars":41,"textLines":1,"bbox":[192,351,1000,24]}
+{"kind":"shape","id":"sh/50ji5g3e","slide":1,"name":"rail-组织","bbox":[62,387,1156,38]}
+{"kind":"shape","id":"sh/7ep4be5w","slide":1,"name":"rail-chip-组织","bbox":[62,387,112,38]}
+{"kind":"textbox","id":"sh/mdg3i9ob","slide":1,"name":"rail-label-组织","text":"组织","textPreview":"组织","textChars":2,"textLines":1,"bbox":[74,395,90,22]}
+{"kind":"textbox","id":"sh/9grmdon2","slide":1,"name":"rail-body-组织","text":"围绕价值流形成最小责任单元；决策权前移，越界、冲突与不可逆行动有明确去处。","textPreview":"围绕价值流形成最小责任单元；决策权前移，越界、冲突与不可逆行动有明确去处。","textChars":37,"textLines":1,"bbox":[192,394,1000,24]}
+{"kind":"shape","id":"sh/8filkj6h","slide":1,"name":"rail-流程","bbox":[62,430,1156,38]}
+{"kind":"shape","id":"sh/zqp47u50","slide":1,"name":"rail-chip-流程","bbox":[62,430,112,38]}
+{"kind":"textbox","id":"sh/ypg3epof","slide":1,"name":"rail-label-流程","text":"流程","textPreview":"流程","textChars":2,"textLines":1,"bbox":[74,438,90,22]}
+{"kind":"textbox","id":"sh/lc7m94nq","slide":1,"name":"rail-body-流程","text":"SCOPE-V：机器快内环持续执行、验证与修复；人类责任外环负责边界、例外、发布与扩大。","textPreview":"SCOPE-V：机器快内环持续执行、验证与修复；人类责任外环负责边界、例外、发布与扩大。","textChars":44,"textLines":1,"bbox":[192,437,1000,24]}
+{"kind":"shape","id":"sh/krylgz65","slide":1,"name":"rail-工具","bbox":[62,473,1156,38]}
+{"kind":"shape","id":"sh/bm5k3u5o","slide":1,"name":"rail-chip-工具","bbox":[62,473,112,38]}
+{"kind":"textbox","id":"sh/alw3apo3","slide":1,"name":"rail-label-工具","text":"工具","textPreview":"工具","textChars":2,"textLines":1,"bbox":[74,481,90,22]}
+{"kind":"textbox","id":"sh/qtg7edkn","slide":1,"name":"rail-body-工具","text":"Context + Orchestration + Harness + Evidence + Telemetry：把规则、状态、权限和事实嵌入日常工作。","textPreview":"Context + Orchestration + Harness + Evidence + Telemetry：把规则、状态、权限和事实嵌入日常工作。","textChars":76,"textLines":1,"bbox":[192,480,1000,24]}
+{"kind":"shape","id":"sh/ru98ni18","slide":1,"name":"outcome-panel","bbox":[62,532,544,128]}
+{"kind":"textbox","id":"sh/cvipgn2t","slide":1,"name":"outcome-head","text":"将取得什么成果","textPreview":"将取得什么成果","textChars":7,"textLines":1,"bbox":[84,548,190,23]}
+{"kind":"textbox","id":"sh/dwrqpsje","slide":1,"name":"outcome-body","text":"端到端周期缩短  ·  首次通过率提升  ·  返工与等待下降\n人类判断集中到价值与风险节点  ·  可复用上下文、规则、测试与 Skill 持续累积","textPreview":"端到端周期缩短  ·  首次通过率提升  ·  返工与等待下降 | 人类判断集中到价值与风险节点  ·  可复用上下文、规则、测试与 Skill 持续累积","textChars":75,"textLines":2,"bbox":[84,579,490,57]}
+{"kind":"shape","id":"sh/2pg7adkr","slide":1,"name":"proof-panel","bbox":[632,532,586,128]}
+{"kind":"textbox","id":"sh/3qpoji1c","slide":1,"name":"proof-head","text":"如何度量并证明成果","textPreview":"如何度量并证明成果","textChars":9,"textLines":1,"bbox":[654,548,260,23]}
+{"kind":"textbox","id":"sh/4rypcn2x","slide":1,"name":"proof-body","text":"同类任务、同一风险边界：试点前基线 vs. 试点后趋势\n业务价值｜工程质量｜自治健康｜人机成本  ←  Intent Contract + Evidence Bundle + Telemetry","textPreview":"同类任务、同一风险边界：试点前基线 vs. 试点后趋势 | 业务价值｜工程质量｜自治健康｜人机成本  ←  Intent Contract + Evidence Bundle + Telemetry","textChars":97,"textLines":2,"bbox":[654,579,538,57]}
+{"kind":"textbox","id":"sh/ps7qlsji","slide":1,"name":"footer","text":"Agentic Agile｜以真实价值流证明 AI 转型，而非用代码生成率宣布成功","textPreview":"Agentic Agile｜以真实价值流证明 AI 转型，而非用代码生成率宣布成功","textChars":41,"textLines":1,"bbox":[62,681,1000,17]}
+{"kind":"notes","id":"nt/4d0i5m","slide":1,"text":"[Sources]\n- Internal: Agentic Agile book, Chapters 2, 5, 16, 25, 26.\n- This slide shows a recommended 12-week pilot sequence. It does not claim guaranteed numerical outcomes.\n\nPresenter emphasis:\nStart with one product value stream and a business result, not an enterprise platform. The double-map structure makes current facts available: IWE holds documented intent, rules and decisions; Code Map locates the actual implementation and tests. Basic Memory preserves task state and candidate learning, while promotion gates ensure only evidence-backed knowledge becomes reusable organizational assets. The scale decision must use comparable baselines plus task-level Evidence and cross-task Telemetry."}

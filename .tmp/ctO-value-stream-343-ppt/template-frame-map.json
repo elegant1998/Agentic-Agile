@@ -1,0 +1,27 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "3-4-3 embedded across an SDLC value stream",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "shapeId": "sh/buh0nqtg", "action": "rewrite" },
+        { "shapeId": "sh/547294r6", "action": "rewrite" },
+        { "shapeId": "sh/utg3698n", "action": "rewrite" },
+        { "shapeId": "sh/hofulsf2", "action": "rewrite" },
+        { "shapeId": "sh/vmdcj2xw", "action": "rewrite" },
+        { "shapeId": "sh/5sfepcfe", "action": "rewrite" },
+        { "shapeId": "sh/3qxwn2x8", "action": "rewrite" },
+        { "shapeId": "sh/dgzetcfa", "action": "rewrite" },
+        { "shapeId": "sh/0bmd476t", "action": "rewrite" },
+        { "shapeId": "sh/e94v2hon", "action": "rewrite" },
+        { "shapeId": "sh/90ve1w7q", "action": "rewrite" },
+        { "shapeId": "sh/43y1gji9", "action": "rewrite" },
+        { "shapeId": "sh/z650ba1k", "action": "rewrite" },
+        { "shapeId": "sh/z2xgf6to", "action": "rewrite" }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}
