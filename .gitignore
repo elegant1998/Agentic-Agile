@@ -10,6 +10,22 @@ tools/
 # Temporary source images used during the chapter migration.
 pic/
 
+# Published case-study figures.
+!book/assets/pic/
+book/assets/pic/*
+!book/assets/pic/kavak-carlos-reconditioning.jpg
+!book/assets/pic/ey-edwina-fitzmaurice.jpg
+!book/assets/pic/ey-factory-droids-dashboard.jpg
+!book/assets/pic/ey-factory-sdlc-complexity.jpg
+!book/assets/pic/minglue-wu-minghui.jpg
+!book/assets/pic/minglue-jiang-ping-ai-native.png
+!book/assets/pic/minglue-hkex-listing-2025.jpg
+!book/assets/pic/gitlab-company-remote.jpg
+!book/assets/pic/gitlab-duo-agent-platform-architecture.png
+!book/assets/pic/gitlab-duo-generate-mr.png
+!book/assets/pic/spotify-honk-fleetshift.png
+!book/assets/pic/spotify-backstage-agent-context.png
+
 # Generated reading editions are public release artifacts.
 downloads/md/
 downloads/versions/*
